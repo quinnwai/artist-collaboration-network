@@ -1,0 +1,2980 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-04-25">
+    <creator>NetworkX 2.7.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="genre" type="string" />
+      <attribute id="1" title="bipartite" type="long" />
+    </attributes>
+    <nodes>
+      <node id="Dr. Dre" label="Dr. Dre">
+        <attvalues>
+          <attvalue for="0" value="g funk" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Macy Gray" label="Macy Gray">
+        <attvalues>
+          <attvalue for="0" value="neo soul" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Butch Cassidy" label="Butch Cassidy">
+        <attvalues>
+          <attvalue for="0" value="g funk" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Chuckii Booker" label="Chuckii Booker">
+        <attvalues>
+          <attvalue for="0" value="contemporary r&amp;b" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Steve &quot;Silk&quot; Hurley" label="Steve &quot;Silk&quot; Hurley">
+        <attvalues>
+          <attvalue for="0" value="acid house" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Bebel Gilberto" label="Bebel Gilberto">
+        <attvalues>
+          <attvalue for="0" value="bossa nova" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Ila Arun" label="Ila Arun">
+        <attvalues>
+          <attvalue for="0" value="classic bollywood" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Peabo Bryson" label="Peabo Bryson">
+        <attvalues>
+          <attvalue for="0" value="adult standards" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Jeezy" label="Jeezy">
+        <attvalues>
+          <attvalue for="0" value="atl hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Tamia" label="Tamia">
+        <attvalues>
+          <attvalue for="0" value="canadian pop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Gods Property" label="Gods Property">
+        <attvalues>
+          <attvalue for="0" value="gospel" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="TQ" label="TQ">
+        <attvalues>
+          <attvalue for="0" value="r&amp;b" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Louis Prima &amp; Keely Smith" label="Louis Prima &amp; Keely Smith">
+        <attvalues>
+          <attvalue for="0" value="adult standards" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="DMX" label="DMX">
+        <attvalues>
+          <attvalue for="0" value="east coast hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Musiq Soulchild" label="Musiq Soulchild">
+        <attvalues>
+          <attvalue for="0" value="contemporary r&amp;b" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Nicole Wray" label="Nicole Wray">
+        <attvalues>
+          <attvalue for="0" value="hip pop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Tekitha" label="Tekitha">
+        <attvalues>
+          <attvalue for="0" value="wu fam" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="New York Choral Artists" label="New York Choral Artists">
+        <attvalues>
+          <attvalue for="0" value="american choir" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="M.O.P." label="M.O.P.">
+        <attvalues>
+          <attvalue for="0" value="alternative hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Brandy" label="Brandy">
+        <attvalues>
+          <attvalue for="0" value="contemporary r&amp;b" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Autolux" label="Autolux">
+        <attvalues>
+          <attvalue for="0" value="dream pop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Salim Merchant" label="Salim Merchant">
+        <attvalues>
+          <attvalue for="0" value="modern bollywood" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="DJ Kay Slay" label="DJ Kay Slay">
+        <attvalues>
+          <attvalue for="0" value="battle rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Young Buck" label="Young Buck">
+        <attvalues>
+          <attvalue for="0" value="crunk" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Kanye West" label="Kanye West">
+        <attvalues>
+          <attvalue for="0" value="chicago rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Erykah Badu" label="Erykah Badu">
+        <attvalues>
+          <attvalue for="0" value="afrofuturism" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Mariachi Reyna De Los Angeles" label="Mariachi Reyna De Los Angeles">
+        <attvalues>
+          <attvalue for="0" value="mariachi" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Celly Cel" label="Celly Cel">
+        <attvalues>
+          <attvalue for="0" value="g funk" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Charlie Wilson" label="Charlie Wilson">
+        <attvalues>
+          <attvalue for="0" value="contemporary r&amp;b" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Mindless Self Indulgence" label="Mindless Self Indulgence">
+        <attvalues>
+          <attvalue for="0" value="dance-punk" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Psychodrama" label="Psychodrama">
+        <attvalues>
+          <attvalue for="0" value="greek hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Juelz Santana" label="Juelz Santana">
+        <attvalues>
+          <attvalue for="0" value="gangster rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Orchestra of St. Luke's" label="Orchestra of St. Luke's">
+        <attvalues>
+          <attvalue for="0" value="american orchestra" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Memphis Bleek" label="Memphis Bleek">
+        <attvalues>
+          <attvalue for="0" value="east coast hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Goldie Loc" label="Goldie Loc">
+        <attvalues>
+          <attvalue for="0" value="g funk" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Monica" label="Monica">
+        <attvalues>
+          <attvalue for="0" value="contemporary r&amp;b" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Burt Bacharach" label="Burt Bacharach">
+        <attvalues>
+          <attvalue for="0" value="adult standards" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="The Boys Choir Of Harlem" label="The Boys Choir Of Harlem">
+        <attvalues>
+          <attvalue for="0" value="children's choir" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Richard Ashcroft" label="Richard Ashcroft">
+        <attvalues>
+          <attvalue for="0" value="britpop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Archie Lee" label="Archie Lee">
+        <attvalues>
+          <attvalue for="0" value="chopped and screwed" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Arturo Sandoval" label="Arturo Sandoval">
+        <attvalues>
+          <attvalue for="0" value="jazz cubano" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Kumar Sanu" label="Kumar Sanu">
+        <attvalues>
+          <attvalue for="0" value="classic bollywood" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="The Game" label="The Game">
+        <attvalues>
+          <attvalue for="0" value="gangster rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Dwele" label="Dwele">
+        <attvalues>
+          <attvalue for="0" value="neo soul" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Randy Newman" label="Randy Newman">
+        <attvalues>
+          <attvalue for="0" value="disney" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="JAY-Z" label="JAY-Z">
+        <attvalues>
+          <attvalue for="0" value="east coast hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Ghetto Boy" label="Ghetto Boy">
+        <attvalues>
+          <attvalue for="0" value="uk dancehall" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Sheek Louch" label="Sheek Louch">
+        <attvalues>
+          <attvalue for="0" value="hardcore hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Bobby V." label="Bobby V.">
+        <attvalues>
+          <attvalue for="0" value="contemporary r&amp;b" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Spice 1" label="Spice 1">
+        <attvalues>
+          <attvalue for="0" value="g funk" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Shirley Caesar" label="Shirley Caesar">
+        <attvalues>
+          <attvalue for="0" value="gospel" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Yolanda Adams" label="Yolanda Adams">
+        <attvalues>
+          <attvalue for="0" value="gospel" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Buddy Guy" label="Buddy Guy">
+        <attvalues>
+          <attvalue for="0" value="acoustic blues" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="WC" label="WC">
+        <attvalues>
+          <attvalue for="0" value="gangster rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Trina" label="Trina">
+        <attvalues>
+          <attvalue for="0" value="hip pop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Death Cab for Cutie" label="Death Cab for Cutie">
+        <attvalues>
+          <attvalue for="0" value="alternative rock" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Charli Baltimore" label="Charli Baltimore">
+        <attvalues>
+          <attvalue for="0" value="hip pop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="David Banner" label="David Banner">
+        <attvalues>
+          <attvalue for="0" value="conscious hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Paul Terry" label="Paul Terry">
+        <attvalues>
+          <attvalue for="0" value="movie tunes" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Bee Gees" label="Bee Gees">
+        <attvalues>
+          <attvalue for="0" value="disco" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Sam Butera &amp; The Witnesses" label="Sam Butera &amp; The Witnesses">
+        <attvalues>
+          <attvalue for="0" value="lounge" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Willie Neal Johnson" label="Willie Neal Johnson">
+        <attvalues>
+          <attvalue for="0" value="contemporary gospel" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Lil Wayne" label="Lil Wayne">
+        <attvalues>
+          <attvalue for="0" value="hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Michael Bolton" label="Michael Bolton">
+        <attvalues>
+          <attvalue for="0" value="adult standards" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="En Vogue" label="En Vogue">
+        <attvalues>
+          <attvalue for="0" value="contemporary r&amp;b" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="RZA" label="RZA">
+        <attvalues>
+          <attvalue for="0" value="alternative hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Keely Smith" label="Keely Smith">
+        <attvalues>
+          <attvalue for="0" value="adult standards" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Method Man" label="Method Man">
+        <attvalues>
+          <attvalue for="0" value="east coast hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Chicago Children's Choir" label="Chicago Children's Choir">
+        <attvalues>
+          <attvalue for="0" value="american choir" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Inspectah Deck" label="Inspectah Deck">
+        <attvalues>
+          <attvalue for="0" value="east coast hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Disturbing Tha Peace" label="Disturbing Tha Peace">
+        <attvalues>
+          <attvalue for="0" value="atl hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Sticky Fingaz" label="Sticky Fingaz">
+        <attvalues>
+          <attvalue for="0" value="hardcore hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Sarah McLachlan" label="Sarah McLachlan">
+        <attvalues>
+          <attvalue for="0" value="canadian pop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Michael Praetorius" label="Michael Praetorius">
+        <attvalues>
+          <attvalue for="0" value="classical" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Fabolous" label="Fabolous">
+        <attvalues>
+          <attvalue for="0" value="dance pop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="B.G." label="B.G.">
+        <attvalues>
+          <attvalue for="0" value="deep southern trap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Consequence" label="Consequence">
+        <attvalues>
+          <attvalue for="0" value="nyc rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Mona Lisa" label="Mona Lisa">
+        <attvalues>
+          <attvalue for="0" value="contemporary r&amp;b" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Warren G" label="Warren G">
+        <attvalues>
+          <attvalue for="0" value="g funk" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Masta Killa" label="Masta Killa">
+        <attvalues>
+          <attvalue for="0" value="east coast hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Sadhana Sargam" label="Sadhana Sargam">
+        <attvalues>
+          <attvalue for="0" value="classic bollywood" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Poppy" label="Poppy">
+        <attvalues>
+          <attvalue for="0" value="alt z" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="MC Ren" label="MC Ren">
+        <attvalues>
+          <attvalue for="0" value="gangster rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Killer Mike" label="Killer Mike">
+        <attvalues>
+          <attvalue for="0" value="alternative hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Jim Jones" label="Jim Jones">
+        <attvalues>
+          <attvalue for="0" value="gangster rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Snoop Dogg" label="Snoop Dogg">
+        <attvalues>
+          <attvalue for="0" value="g funk" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Shawnna" label="Shawnna">
+        <attvalues>
+          <attvalue for="0" value="chicago rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Jaheim" label="Jaheim">
+        <attvalues>
+          <attvalue for="0" value="contemporary r&amp;b" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Riders In The Sky" label="Riders In The Sky">
+        <attvalues>
+          <attvalue for="0" value="cowboy western" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="George Walker" label="George Walker">
+        <attvalues>
+          <attvalue for="0" value="african-american classical" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Gene Chandler" label="Gene Chandler">
+        <attvalues>
+          <attvalue for="0" value="brill building pop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Al Kapone" label="Al Kapone">
+        <attvalues>
+          <attvalue for="0" value="memphis hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Bootsy Collins" label="Bootsy Collins">
+        <attvalues>
+          <attvalue for="0" value="funk" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Faith Evans" label="Faith Evans">
+        <attvalues>
+          <attvalue for="0" value="contemporary r&amp;b" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Oschino" label="Oschino">
+        <attvalues>
+          <attvalue for="0" value="philly rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Sleepy Brown" label="Sleepy Brown">
+        <attvalues>
+          <attvalue for="0" value="atl hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Jermaine Dupri" label="Jermaine Dupri">
+        <attvalues>
+          <attvalue for="0" value="atl hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Diddy" label="Diddy">
+        <attvalues>
+          <attvalue for="0" value="dance pop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Lyle Lovett" label="Lyle Lovett">
+        <attvalues>
+          <attvalue for="0" value="alternative country" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Carla Thomas" label="Carla Thomas">
+        <attvalues>
+          <attvalue for="0" value="classic soul" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Tim Hardin" label="Tim Hardin">
+        <attvalues>
+          <attvalue for="0" value="classic uk pop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Kokane" label="Kokane">
+        <attvalues>
+          <attvalue for="0" value="g funk" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Yami Bolo" label="Yami Bolo">
+        <attvalues>
+          <attvalue for="0" value="deep ragga" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Timbaland" label="Timbaland">
+        <attvalues>
+          <attvalue for="0" value="dance pop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Yukmouth" label="Yukmouth">
+        <attvalues>
+          <attvalue for="0" value="hyphy" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Syleena Johnson" label="Syleena Johnson">
+        <attvalues>
+          <attvalue for="0" value="contemporary r&amp;b" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Treach" label="Treach">
+        <attvalues>
+          <attvalue for="0" value="new jersey rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Lenny Kravitz" label="Lenny Kravitz">
+        <attvalues>
+          <attvalue for="0" value="permanent wave" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="8Ball" label="8Ball">
+        <attvalues>
+          <attvalue for="0" value="crunk" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Kirk Franklin" label="Kirk Franklin">
+        <attvalues>
+          <attvalue for="0" value="gospel" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Small World" label="Small World">
+        <attvalues>
+          <attvalue for="0" value="mod revival" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Marvin Winans" label="Marvin Winans">
+        <attvalues>
+          <attvalue for="0" value="gospel" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="DJ Quik" label="DJ Quik">
+        <attvalues>
+          <attvalue for="0" value="g funk" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Sugarland" label="Sugarland">
+        <attvalues>
+          <attvalue for="0" value="contemporary country" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Barbra Streisand" label="Barbra Streisand">
+        <attvalues>
+          <attvalue for="0" value="adult standards" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Fred Hammond" label="Fred Hammond">
+        <attvalues>
+          <attvalue for="0" value="gospel" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="GLC" label="GLC">
+        <attvalues>
+          <attvalue for="0" value="chicago rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Clipse" label="Clipse">
+        <attvalues>
+          <attvalue for="0" value="alternative hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Guy Sebastian" label="Guy Sebastian">
+        <attvalues>
+          <attvalue for="0" value="australian pop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Radio Slave" label="Radio Slave">
+        <attvalues>
+          <attvalue for="0" value="minimal tech house" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Bone Crusher" label="Bone Crusher">
+        <attvalues>
+          <attvalue for="0" value="atl hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Pharrell Williams" label="Pharrell Williams">
+        <attvalues>
+          <attvalue for="0" value="hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Havoc" label="Havoc">
+        <attvalues>
+          <attvalue for="0" value="alternative hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Boyz N Da Hood" label="Boyz N Da Hood">
+        <attvalues>
+          <attvalue for="0" value="atl hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Curtis Mayfield, Jerry Butler &amp; The Impressions" label="Curtis Mayfield, Jerry Butler &amp; The Impressions">
+        <attvalues>
+          <attvalue for="0" value="funk" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="2 Chainz" label="2 Chainz">
+        <attvalues>
+          <attvalue for="0" value="atl hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="MJG" label="MJG">
+        <attvalues>
+          <attvalue for="0" value="dirty south rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="JR Writer" label="JR Writer">
+        <attvalues>
+          <attvalue for="0" value="battle rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Turf Talk" label="Turf Talk">
+        <attvalues>
+          <attvalue for="0" value="hyphy" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="B-Legit" label="B-Legit">
+        <attvalues>
+          <attvalue for="0" value="cali rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Dave Chappelle" label="Dave Chappelle">
+        <attvalues>
+          <attvalue for="0" value="black comedy" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Blaque" label="Blaque">
+        <attvalues>
+          <attvalue for="0" value="contemporary r&amp;b" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Brian McKnight" label="Brian McKnight">
+        <attvalues>
+          <attvalue for="0" value="contemporary r&amp;b" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Beanie Sigel" label="Beanie Sigel">
+        <attvalues>
+          <attvalue for="0" value="battle rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Jamie Foxx" label="Jamie Foxx">
+        <attvalues>
+          <attvalue for="0" value="contemporary r&amp;b" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Mac Mall" label="Mac Mall">
+        <attvalues>
+          <attvalue for="0" value="g funk" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Chamillionaire" label="Chamillionaire">
+        <attvalues>
+          <attvalue for="0" value="dirty south rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Los Bukis" label="Los Bukis">
+        <attvalues>
+          <attvalue for="0" value="grupera" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Talib Kweli" label="Talib Kweli">
+        <attvalues>
+          <attvalue for="0" value="alternative hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Kenny Greene" label="Kenny Greene">
+        <attvalues>
+          <attvalue for="0" value="pittsburgh rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Otis Redding" label="Otis Redding">
+        <attvalues>
+          <attvalue for="0" value="classic soul" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Jagged Edge" label="Jagged Edge">
+        <attvalues>
+          <attvalue for="0" value="atl hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Blackstreet" label="Blackstreet">
+        <attvalues>
+          <attvalue for="0" value="boy band" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Louis Prima" label="Louis Prima">
+        <attvalues>
+          <attvalue for="0" value="adult standards" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Kathleen Battle" label="Kathleen Battle">
+        <attvalues>
+          <attvalue for="0" value="classical soprano" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Crystal Lewis" label="Crystal Lewis">
+        <attvalues>
+          <attvalue for="0" value="christian music" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Ice Cube" label="Ice Cube">
+        <attvalues>
+          <attvalue for="0" value="conscious hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Freeway" label="Freeway">
+        <attvalues>
+          <attvalue for="0" value="battle rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Mariah Carey" label="Mariah Carey">
+        <attvalues>
+          <attvalue for="0" value="dance pop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Donnie McClurkin" label="Donnie McClurkin">
+        <attvalues>
+          <attvalue for="0" value="gospel" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Ms. Dynamite" label="Ms. Dynamite">
+        <attvalues>
+          <attvalue for="0" value="hip pop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Bounty Killer" label="Bounty Killer">
+        <attvalues>
+          <attvalue for="0" value="dancehall" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Mos Def" label="Mos Def">
+        <attvalues>
+          <attvalue for="0" value="alternative hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Kendra Ross" label="Kendra Ross">
+        <attvalues>
+          <attvalue for="0" value="neo soul" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Sean Paul" label="Sean Paul">
+        <attvalues>
+          <attvalue for="0" value="dance pop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="JUVENILE" label="JUVENILE">
+        <attvalues>
+          <attvalue for="0" value="bounce" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Radical For Christ" label="Radical For Christ">
+        <attvalues>
+          <attvalue for="0" value="praise" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Jazze Pha" label="Jazze Pha">
+        <attvalues>
+          <attvalue for="0" value="atl hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Marco Antonio Solís" label="Marco Antonio Solís">
+        <attvalues>
+          <attvalue for="0" value="grupera" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Trick Daddy" label="Trick Daddy">
+        <attvalues>
+          <attvalue for="0" value="crunk" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Devin The Dude" label="Devin The Dude">
+        <attvalues>
+          <attvalue for="0" value="dirty south rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Boo Rossini" label="Boo Rossini">
+        <attvalues>
+          <attvalue for="0" value="trap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Zaytoven" label="Zaytoven">
+        <attvalues>
+          <attvalue for="0" value="atl hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Slick Pulla" label="Slick Pulla">
+        <attvalues>
+          <attvalue for="0" value="trap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="JoJo" label="JoJo">
+        <attvalues>
+          <attvalue for="0" value="dance pop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Messy Marv" label="Messy Marv">
+        <attvalues>
+          <attvalue for="0" value="cali rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Bronn Journey" label="Bronn Journey">
+        <attvalues>
+          <attvalue for="0" value="harp" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Thom Yorke" label="Thom Yorke">
+        <attvalues>
+          <attvalue for="0" value="art pop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Louis Armstrong" label="Louis Armstrong">
+        <attvalues>
+          <attvalue for="0" value="adult standards" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="JL" label="JL">
+        <attvalues>
+          <attvalue for="0" value="deep underground hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Missy Elliott" label="Missy Elliott">
+        <attvalues>
+          <attvalue for="0" value="dance pop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Juicy J" label="Juicy J">
+        <attvalues>
+          <attvalue for="0" value="crunk" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Big Tymers" label="Big Tymers">
+        <attvalues>
+          <attvalue for="0" value="crunk" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Foxy Brown" label="Foxy Brown">
+        <attvalues>
+          <attvalue for="0" value="contemporary r&amp;b" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Max Reger" label="Max Reger">
+        <attvalues>
+          <attvalue for="0" value="classical" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Tom Scott" label="Tom Scott">
+        <attvalues>
+          <attvalue for="0" value="smooth jazz" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Anthony Hamilton" label="Anthony Hamilton">
+        <attvalues>
+          <attvalue for="0" value="contemporary r&amp;b" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Toni Braxton" label="Toni Braxton">
+        <attvalues>
+          <attvalue for="0" value="contemporary r&amp;b" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Lyrics Born" label="Lyrics Born">
+        <attvalues>
+          <attvalue for="0" value="alternative hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Kenny G" label="Kenny G">
+        <attvalues>
+          <attvalue for="0" value="smooth jazz" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Petey Pablo" label="Petey Pablo">
+        <attvalues>
+          <attvalue for="0" value="crunk" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Kierra Sheard" label="Kierra Sheard">
+        <attvalues>
+          <attvalue for="0" value="gospel" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Silkk The Shocker" label="Silkk The Shocker">
+        <attvalues>
+          <attvalue for="0" value="dirty south rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Master P" label="Master P">
+        <attvalues>
+          <attvalue for="0" value="dirty south rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Too $hort" label="Too $hort">
+        <attvalues>
+          <attvalue for="0" value="cali rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Frankie Knuckles" label="Frankie Knuckles">
+        <attvalues>
+          <attvalue for="0" value="acid house" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Mannie Fresh" label="Mannie Fresh">
+        <attvalues>
+          <attvalue for="0" value="bounce" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Traditional" label="Traditional">
+        <attvalues>
+          <attvalue for="0" value="sleep" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Pastor Troy" label="Pastor Troy">
+        <attvalues>
+          <attvalue for="0" value="atl hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Ashanti" label="Ashanti">
+        <attvalues>
+          <attvalue for="0" value="dance pop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Pharoahe Monch" label="Pharoahe Monch">
+        <attvalues>
+          <attvalue for="0" value="alternative hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Mr. 3-2" label="Mr. 3-2">
+        <attvalues>
+          <attvalue for="0" value="dirty texas rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Rocko" label="Rocko">
+        <attvalues>
+          <attvalue for="0" value="atl hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Raphael Saadiq" label="Raphael Saadiq">
+        <attvalues>
+          <attvalue for="0" value="funk" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Nate Dogg" label="Nate Dogg">
+        <attvalues>
+          <attvalue for="0" value="g funk" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Alka Yagnik" label="Alka Yagnik">
+        <attvalues>
+          <attvalue for="0" value="classic bollywood" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="U-God" label="U-God">
+        <attvalues>
+          <attvalue for="0" value="hardcore hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Cappadonna" label="Cappadonna">
+        <attvalues>
+          <attvalue for="0" value="east coast hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Hot Boyz" label="Hot Boyz">
+        <attvalues>
+          <attvalue for="0" value="dirty south rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Luther Vandross" label="Luther Vandross">
+        <attvalues>
+          <attvalue for="0" value="contemporary r&amp;b" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Q-Tip" label="Q-Tip">
+        <attvalues>
+          <attvalue for="0" value="alternative hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Bilal" label="Bilal">
+        <attvalues>
+          <attvalue for="0" value="hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="UNKLE" label="UNKLE">
+        <attvalues>
+          <attvalue for="0" value="alternative dance" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Common" label="Common">
+        <attvalues>
+          <attvalue for="0" value="chicago rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Kid Capri" label="Kid Capri">
+        <attvalues>
+          <attvalue for="0" value="bronx hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="D-Shot" label="D-Shot">
+        <attvalues>
+          <attvalue for="0" value="g funk" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Yo Gotti" label="Yo Gotti">
+        <attvalues>
+          <attvalue for="0" value="dirty south rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Kelly Price" label="Kelly Price">
+        <attvalues>
+          <attvalue for="0" value="contemporary r&amp;b" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="The Impressions" label="The Impressions">
+        <attvalues>
+          <attvalue for="0" value="brill building pop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="K-Rino" label="K-Rino">
+        <attvalues>
+          <attvalue for="0" value="dirty texas rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="I-20" label="I-20">
+        <attvalues>
+          <attvalue for="0" value="atl hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Scooby" label="Scooby">
+        <attvalues>
+          <attvalue for="0" value="trap brasileiro" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Robert Goulet" label="Robert Goulet">
+        <attvalues>
+          <attvalue for="0" value="adult standards" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Matt Blaque" label="Matt Blaque">
+        <attvalues>
+          <attvalue for="0" value="oakland hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="David Sanborn" label="David Sanborn">
+        <attvalues>
+          <attvalue for="0" value="jazz funk" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Udit Narayan" label="Udit Narayan">
+        <attvalues>
+          <attvalue for="0" value="chutney" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Franz Schubert" label="Franz Schubert">
+        <attvalues>
+          <attvalue for="0" value="classical" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Ghostface Killah" label="Ghostface Killah">
+        <attvalues>
+          <attvalue for="0" value="alternative hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Big Pokey" label="Big Pokey">
+        <attvalues>
+          <attvalue for="0" value="chopped and screwed" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="J2" label="J2">
+        <attvalues>
+          <attvalue for="0" value="rebel blues" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Chris Ward" label="Chris Ward">
+        <attvalues>
+          <attvalue for="0" value="chopped and screwed" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Fiend" label="Fiend">
+        <attvalues>
+          <attvalue for="0" value="deep southern trap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="U.S.D.A." label="U.S.D.A.">
+        <attvalues>
+          <attvalue for="0" value="atl hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Raekwon" label="Raekwon">
+        <attvalues>
+          <attvalue for="0" value="alternative hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Lil 1/2 Dead" label="Lil 1/2 Dead">
+        <attvalues>
+          <attvalue for="0" value="g funk" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Truth Hurts" label="Truth Hurts">
+        <attvalues>
+          <attvalue for="0" value="hip pop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="T.I." label="T.I.">
+        <attvalues>
+          <attvalue for="0" value="atl hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="C-Loc" label="C-Loc">
+        <attvalues>
+          <attvalue for="0" value="baton rouge rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="50 Cent" label="50 Cent">
+        <attvalues>
+          <attvalue for="0" value="east coast hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Chaka Khan" label="Chaka Khan">
+        <attvalues>
+          <attvalue for="0" value="disco" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="C-Murder" label="C-Murder">
+        <attvalues>
+          <attvalue for="0" value="crunk" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Amil" label="Amil">
+        <attvalues>
+          <attvalue for="0" value="hip pop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Mack 10" label="Mack 10">
+        <attvalues>
+          <attvalue for="0" value="chicano rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Cold 187um" label="Cold 187um">
+        <attvalues>
+          <attvalue for="0" value="g funk" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Twista" label="Twista">
+        <attvalues>
+          <attvalue for="0" value="chicago rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Bunny Wailer" label="Bunny Wailer">
+        <attvalues>
+          <attvalue for="0" value="dub" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="John Legend" label="John Legend">
+        <attvalues>
+          <attvalue for="0" value="neo soul" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Dr. John" label="Dr. John">
+        <attvalues>
+          <attvalue for="0" value="blues" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Leonard Slatkin" label="Leonard Slatkin">
+        <attvalues>
+          <attvalue for="0" value="orchestral performance" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="KRS-One" label="KRS-One">
+        <attvalues>
+          <attvalue for="0" value="alternative hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="UGK" label="UGK">
+        <attvalues>
+          <attvalue for="0" value="dirty south rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Soopafly" label="Soopafly">
+        <attvalues>
+          <attvalue for="0" value="g funk" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="George Frideric Handel" label="George Frideric Handel">
+        <attvalues>
+          <attvalue for="0" value="baroque" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Stephen Marley" label="Stephen Marley">
+        <attvalues>
+          <attvalue for="0" value="modern reggae" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="N.O.R.E." label="N.O.R.E.">
+        <attvalues>
+          <attvalue for="0" value="hardcore hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="LeAnn Rimes" label="LeAnn Rimes">
+        <attvalues>
+          <attvalue for="0" value="country" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Eminem" label="Eminem">
+        <attvalues>
+          <attvalue for="0" value="detroit hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Lee Dorsey" label="Lee Dorsey">
+        <attvalues>
+          <attvalue for="0" value="classic soul" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="H.A.W.K." label="H.A.W.K.">
+        <attvalues>
+          <attvalue for="0" value="chopped and screwed" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Aaron Neville" label="Aaron Neville">
+        <attvalues>
+          <attvalue for="0" value="soul" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="CeeLo Green" label="CeeLo Green">
+        <attvalues>
+          <attvalue for="0" value="atl hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Afroman" label="Afroman">
+        <attvalues>
+          <attvalue for="0" value="comedy rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="George Benson" label="George Benson">
+        <attvalues>
+          <attvalue for="0" value="disco" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Hot Boys" label="Hot Boys">
+        <attvalues>
+          <attvalue for="0" value="deep southern trap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Big Bub" label="Big Bub">
+        <attvalues>
+          <attvalue for="0" value="contemporary r&amp;b" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="The Lady Of Rage" label="The Lady Of Rage">
+        <attvalues>
+          <attvalue for="0" value="g funk" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Susanna Hoffs" label="Susanna Hoffs">
+        <attvalues>
+          <attvalue for="0" value="lilith" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Linda Clifford" label="Linda Clifford">
+        <attvalues>
+          <attvalue for="0" value="deep disco" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="TobyMac" label="TobyMac">
+        <attvalues>
+          <attvalue for="0" value="ccm" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Badly Drawn Boy" label="Badly Drawn Boy">
+        <attvalues>
+          <attvalue for="0" value="britpop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Kashif" label="Kashif">
+        <attvalues>
+          <attvalue for="0" value="disco" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Kiotti" label="Kiotti">
+        <attvalues>
+          <attvalue for="0" value="houston rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="2Pac" label="2Pac">
+        <attvalues>
+          <attvalue for="0" value="g funk" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Lloyd Banks" label="Lloyd Banks">
+        <attvalues>
+          <attvalue for="0" value="gangster rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Ian Brown" label="Ian Brown">
+        <attvalues>
+          <attvalue for="0" value="britpop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Daz Dillinger" label="Daz Dillinger">
+        <attvalues>
+          <attvalue for="0" value="g funk" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Beyoncé" label="Beyoncé">
+        <attvalues>
+          <attvalue for="0" value="dance pop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Tha Eastsidaz" label="Tha Eastsidaz">
+        <attvalues>
+          <attvalue for="0" value="g funk" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Scarface" label="Scarface">
+        <attvalues>
+          <attvalue for="0" value="conscious hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Cam’ron" label="Cam’ron">
+        <attvalues>
+          <attvalue for="0" value="battle rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Charlie Murphy" label="Charlie Murphy">
+        <attvalues>
+          <attvalue for="0" value="black comedy" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Big Boi" label="Big Boi">
+        <attvalues>
+          <attvalue for="0" value="alternative hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Trae Tha Truth" label="Trae Tha Truth">
+        <attvalues>
+          <attvalue for="0" value="dirty south rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Capleton" label="Capleton">
+        <attvalues>
+          <attvalue for="0" value="dancehall" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Ludacris" label="Ludacris">
+        <attvalues>
+          <attvalue for="0" value="atl hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Damian Marley" label="Damian Marley">
+        <attvalues>
+          <attvalue for="0" value="reggae" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="The LOX" label="The LOX">
+        <attvalues>
+          <attvalue for="0" value="east coast hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Busta Rhymes" label="Busta Rhymes">
+        <attvalues>
+          <attvalue for="0" value="east coast hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Mia X" label="Mia X">
+        <attvalues>
+          <attvalue for="0" value="dirty south rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Jill Scott" label="Jill Scott">
+        <attvalues>
+          <attvalue for="0" value="funk" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Black Thought" label="Black Thought">
+        <attvalues>
+          <attvalue for="0" value="alternative hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Mary J. Blige" label="Mary J. Blige">
+        <attvalues>
+          <attvalue for="0" value="dance pop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="E-40" label="E-40">
+        <attvalues>
+          <attvalue for="0" value="cali rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Mystikal" label="Mystikal">
+        <attvalues>
+          <attvalue for="0" value="crunk" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Bobby Womack" label="Bobby Womack">
+        <attvalues>
+          <attvalue for="0" value="classic soul" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Chingy" label="Chingy">
+        <attvalues>
+          <attvalue for="0" value="crunk" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Jaci Velasquez" label="Jaci Velasquez">
+        <attvalues>
+          <attvalue for="0" value="latin christian" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Redman" label="Redman">
+        <attvalues>
+          <attvalue for="0" value="east coast hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Usher" label="Usher">
+        <attvalues>
+          <attvalue for="0" value="atl hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="The Notorious B.I.G." label="The Notorious B.I.G.">
+        <attvalues>
+          <attvalue for="0" value="east coast hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Drag-On" label="Drag-On">
+        <attvalues>
+          <attvalue for="0" value="bronx hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Guerilla Black" label="Guerilla Black">
+        <attvalues>
+          <attvalue for="0" value="west coast rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Chanté Moore" label="Chanté Moore">
+        <attvalues>
+          <attvalue for="0" value="contemporary r&amp;b" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Kardinal Offishall" label="Kardinal Offishall">
+        <attvalues>
+          <attvalue for="0" value="canadian old school hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Ja Rule" label="Ja Rule">
+        <attvalues>
+          <attvalue for="0" value="dance pop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Jadakiss" label="Jadakiss">
+        <attvalues>
+          <attvalue for="0" value="battle rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Canned Heat" label="Canned Heat">
+        <attvalues>
+          <attvalue for="0" value="album rock" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="CocoRosie" label="CocoRosie">
+        <attvalues>
+          <attvalue for="0" value="art pop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="SWV" label="SWV">
+        <attvalues>
+          <attvalue for="0" value="contemporary r&amp;b" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Carl Thomas" label="Carl Thomas">
+        <attvalues>
+          <attvalue for="0" value="contemporary r&amp;b" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Laetitia Sadier" label="Laetitia Sadier">
+        <attvalues>
+          <attvalue for="0" value="dream pop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Goapele" label="Goapele">
+        <attvalues>
+          <attvalue for="0" value="neo soul" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Abhijeet" label="Abhijeet">
+        <attvalues>
+          <attvalue for="0" value="classic bollywood" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Destiny's Child" label="Destiny's Child">
+        <attvalues>
+          <attvalue for="0" value="dance pop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Yung Redd" label="Yung Redd">
+        <attvalues>
+          <attvalue for="0" value="houston rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Lil' Flip" label="Lil' Flip">
+        <attvalues>
+          <attvalue for="0" value="crunk" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Lil Jon" label="Lil Jon">
+        <attvalues>
+          <attvalue for="0" value="atl hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Three 6 Mafia" label="Three 6 Mafia">
+        <attvalues>
+          <attvalue for="0" value="crunk" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Ol' Dirty Bastard" label="Ol' Dirty Bastard">
+        <attvalues>
+          <attvalue for="0" value="alternative hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Xzibit" label="Xzibit">
+        <attvalues>
+          <attvalue for="0" value="detroit hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Luniz" label="Luniz">
+        <attvalues>
+          <attvalue for="0" value="g funk" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="S.L.A.B." label="S.L.A.B.">
+        <attvalues>
+          <attvalue for="0" value="dirty texas rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Pimp C" label="Pimp C">
+        <attvalues>
+          <attvalue for="0" value="baton rouge rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Alvin Slaughter" label="Alvin Slaughter">
+        <attvalues>
+          <attvalue for="0" value="classic praise" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Big Pup" label="Big Pup">
+        <attvalues>
+          <attvalue for="0" value="houston rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="San Quinn" label="San Quinn">
+        <attvalues>
+          <attvalue for="0" value="cali rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Lil' Kim" label="Lil' Kim">
+        <attvalues>
+          <attvalue for="0" value="dance pop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Ray J" label="Ray J">
+        <attvalues>
+          <attvalue for="0" value="pop rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Earth, Wind &amp; Fire" label="Earth, Wind &amp; Fire">
+        <attvalues>
+          <attvalue for="0" value="disco" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Soulja Slim" label="Soulja Slim">
+        <attvalues>
+          <attvalue for="0" value="bounce" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Tony Yayo" label="Tony Yayo">
+        <attvalues>
+          <attvalue for="0" value="hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Fat Joe" label="Fat Joe">
+        <attvalues>
+          <attvalue for="0" value="bronx hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Peedi Crakk" label="Peedi Crakk">
+        <attvalues>
+          <attvalue for="0" value="battle rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Jayo Felony" label="Jayo Felony">
+        <attvalues>
+          <attvalue for="0" value="g funk" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Richard Marx" label="Richard Marx">
+        <attvalues>
+          <attvalue for="0" value="album rock" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Suga Free" label="Suga Free">
+        <attvalues>
+          <attvalue for="0" value="g funk" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Paul Wall" label="Paul Wall">
+        <attvalues>
+          <attvalue for="0" value="chopped and screwed" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Mr. Cheeks" label="Mr. Cheeks">
+        <attvalues>
+          <attvalue for="0" value="hip pop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Cocoa Brovaz" label="Cocoa Brovaz">
+        <attvalues>
+          <attvalue for="0" value="deep east coast hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="DJ Clue" label="DJ Clue">
+        <attvalues>
+          <attvalue for="0" value="east coast hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Lateef The Truthspeaker" label="Lateef The Truthspeaker">
+        <attvalues>
+          <attvalue for="0" value="oakland hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Earl Klugh" label="Earl Klugh">
+        <attvalues>
+          <attvalue for="0" value="jazz guitar" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Doug E. Fresh" label="Doug E. Fresh">
+        <attvalues>
+          <attvalue for="0" value="beatboxing" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="The Dramatics" label="The Dramatics">
+        <attvalues>
+          <attvalue for="0" value="classic soul" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Birdman" label="Birdman">
+        <attvalues>
+          <attvalue for="0" value="dirty south rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Justin Timberlake" label="Justin Timberlake">
+        <attvalues>
+          <attvalue for="0" value="dance pop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Eve" label="Eve">
+        <attvalues>
+          <attvalue for="0" value="anime" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Joe Budden" label="Joe Budden">
+        <attvalues>
+          <attvalue for="0" value="battle rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Curtis Mayfield" label="Curtis Mayfield">
+        <attvalues>
+          <attvalue for="0" value="chicago soul" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Kool G Rap" label="Kool G Rap">
+        <attvalues>
+          <attvalue for="0" value="alternative hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="American Cream Team" label="American Cream Team">
+        <attvalues>
+          <attvalue for="0" value="wu fam" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Felix Mendelssohn" label="Felix Mendelssohn">
+        <attvalues>
+          <attvalue for="0" value="classical" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="David Benoit" label="David Benoit">
+        <attvalues>
+          <attvalue for="0" value="smooth jazz" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Richard Smallwood" label="Richard Smallwood">
+        <attvalues>
+          <attvalue for="0" value="gospel" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Un Kasa" label="Un Kasa">
+        <attvalues>
+          <attvalue for="0" value="harlem hip hop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Nelly" label="Nelly">
+        <attvalues>
+          <attvalue for="0" value="dance pop" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Young Gunz" label="Young Gunz">
+        <attvalues>
+          <attvalue for="0" value="philly rap" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Dr. Dre" target="Truth Hurts" id="0" weight="1" />
+      <edge source="Dr. Dre" target="JAY-Z" id="1" weight="1" />
+      <edge source="Dr. Dre" target="Snoop Dogg" id="2" weight="1" />
+      <edge source="Macy Gray" target="Common" id="3" weight="1" />
+      <edge source="Butch Cassidy" target="Master P" id="4" weight="1" />
+      <edge source="Butch Cassidy" target="Nate Dogg" id="5" weight="1" />
+      <edge source="Butch Cassidy" target="Tha Eastsidaz" id="6" weight="1" />
+      <edge source="Butch Cassidy" target="Snoop Dogg" id="7" weight="2" />
+      <edge source="Chuckii Booker" target="En Vogue" id="8" weight="1" />
+      <edge source="Chuckii Booker" target="Frankie Knuckles" id="9" weight="1" />
+      <edge source="Chuckii Booker" target="Steve &quot;Silk&quot; Hurley" id="10" weight="1" />
+      <edge source="Steve &quot;Silk&quot; Hurley" target="En Vogue" id="11" weight="2" />
+      <edge source="Steve &quot;Silk&quot; Hurley" target="Frankie Knuckles" id="12" weight="1" />
+      <edge source="Bebel Gilberto" target="Kenny G" id="13" weight="1" />
+      <edge source="Ila Arun" target="Alka Yagnik" id="14" weight="1" />
+      <edge source="Peabo Bryson" target="Kenny G" id="15" weight="1" />
+      <edge source="Jeezy" target="Boyz N Da Hood" id="16" weight="1" />
+      <edge source="Jeezy" target="Fabolous" id="17" weight="4" />
+      <edge source="Jeezy" target="Kirk Franklin" id="18" weight="1" />
+      <edge source="Jeezy" target="Slick Pulla" id="19" weight="2" />
+      <edge source="Jeezy" target="Radical For Christ" id="20" weight="1" />
+      <edge source="Jeezy" target="Lil' Flip" id="21" weight="1" />
+      <edge source="Jeezy" target="Trick Daddy" id="22" weight="1" />
+      <edge source="Jeezy" target="RZA" id="23" weight="1" />
+      <edge source="Jeezy" target="U.S.D.A." id="24" weight="3" />
+      <edge source="Jeezy" target="Cam’ron" id="25" weight="1" />
+      <edge source="Jeezy" target="Syleena Johnson" id="26" weight="1" />
+      <edge source="Jeezy" target="Lil Wayne" id="27" weight="1" />
+      <edge source="Jeezy" target="Brandy" id="28" weight="1" />
+      <edge source="Jeezy" target="Twista" id="29" weight="1" />
+      <edge source="Jeezy" target="Boo Rossini" id="30" weight="1" />
+      <edge source="Jeezy" target="Raekwon" id="31" weight="1" />
+      <edge source="Jeezy" target="50 Cent" id="32" weight="1" />
+      <edge source="Jeezy" target="E-40" id="33" weight="2" />
+      <edge source="Jeezy" target="Yo Gotti" id="34" weight="1" />
+      <edge source="Jeezy" target="Jazze Pha" id="35" weight="1" />
+      <edge source="Jeezy" target="SWV" id="36" weight="1" />
+      <edge source="Jeezy" target="Kanye West" id="37" weight="1" />
+      <edge source="Jeezy" target="Fred Hammond" id="38" weight="1" />
+      <edge source="Jeezy" target="Big Tymers" id="39" weight="1" />
+      <edge source="Jeezy" target="Trae Tha Truth" id="40" weight="2" />
+      <edge source="Jeezy" target="Mannie Fresh" id="41" weight="1" />
+      <edge source="Jeezy" target="Clipse" id="42" weight="1" />
+      <edge source="Jeezy" target="JAY-Z" id="43" weight="1" />
+      <edge source="Tamia" target="Fabolous" id="44" weight="2" />
+      <edge source="Gods Property" target="Mos Def" id="45" weight="1" />
+      <edge source="TQ" target="Lil Wayne" id="46" weight="1" />
+      <edge source="TQ" target="Big Tymers" id="47" weight="1" />
+      <edge source="Louis Prima &amp; Keely Smith" target="Sam Butera &amp; The Witnesses" id="48" weight="26" />
+      <edge source="DMX" target="Ludacris" id="49" weight="1" />
+      <edge source="DMX" target="JAY-Z" id="50" weight="1" />
+      <edge source="Musiq Soulchild" target="Fred Hammond" id="51" weight="1" />
+      <edge source="Nicole Wray" target="Cam’ron" id="52" weight="1" />
+      <edge source="Tekitha" target="Raekwon" id="53" weight="1" />
+      <edge source="New York Choral Artists" target="Kirk Franklin" id="54" weight="1" />
+      <edge source="New York Choral Artists" target="Leonard Slatkin" id="55" weight="18" />
+      <edge source="New York Choral Artists" target="Traditional" id="56" weight="13" />
+      <edge source="New York Choral Artists" target="Max Reger" id="57" weight="1" />
+      <edge source="New York Choral Artists" target="SWV" id="58" weight="2" />
+      <edge source="New York Choral Artists" target="Bronn Journey" id="59" weight="1" />
+      <edge source="New York Choral Artists" target="Franz Schubert" id="60" weight="1" />
+      <edge source="New York Choral Artists" target="Felix Mendelssohn" id="61" weight="1" />
+      <edge source="New York Choral Artists" target="The Boys Choir Of Harlem" id="62" weight="18" />
+      <edge source="New York Choral Artists" target="Kathleen Battle" id="63" weight="18" />
+      <edge source="New York Choral Artists" target="Michael Praetorius" id="64" weight="1" />
+      <edge source="New York Choral Artists" target="Kenny G" id="65" weight="2" />
+      <edge source="New York Choral Artists" target="Orchestra of St. Luke's" id="66" weight="18" />
+      <edge source="M.O.P." target="Fabolous" id="67" weight="2" />
+      <edge source="M.O.P." target="JAY-Z" id="68" weight="1" />
+      <edge source="M.O.P." target="Jadakiss" id="69" weight="2" />
+      <edge source="Brandy" target="Fabolous" id="70" weight="1" />
+      <edge source="Brandy" target="Monica" id="71" weight="1" />
+      <edge source="Brandy" target="Kirk Franklin" id="72" weight="1" />
+      <edge source="Brandy" target="Radical For Christ" id="73" weight="1" />
+      <edge source="Brandy" target="RZA" id="74" weight="1" />
+      <edge source="Brandy" target="T.I." id="75" weight="1" />
+      <edge source="Brandy" target="Cam’ron" id="76" weight="1" />
+      <edge source="Brandy" target="Lil Wayne" id="77" weight="1" />
+      <edge source="Brandy" target="Ray J" id="78" weight="1" />
+      <edge source="Brandy" target="Twista" id="79" weight="1" />
+      <edge source="Brandy" target="50 Cent" id="80" weight="1" />
+      <edge source="Brandy" target="E-40" id="81" weight="1" />
+      <edge source="Brandy" target="SWV" id="82" weight="1" />
+      <edge source="Brandy" target="Kanye West" id="83" weight="2" />
+      <edge source="Brandy" target="Fred Hammond" id="84" weight="1" />
+      <edge source="Brandy" target="Big Tymers" id="85" weight="1" />
+      <edge source="Brandy" target="Trae Tha Truth" id="86" weight="1" />
+      <edge source="Brandy" target="Clipse" id="87" weight="1" />
+      <edge source="Brandy" target="JAY-Z" id="88" weight="1" />
+      <edge source="Brandy" target="Death Cab for Cutie" id="89" weight="1" />
+      <edge source="DJ Kay Slay" target="E-40" id="90" weight="1" />
+      <edge source="Young Buck" target="50 Cent" id="91" weight="1" />
+      <edge source="Kanye West" target="Fabolous" id="92" weight="1" />
+      <edge source="Kanye West" target="Kirk Franklin" id="93" weight="1" />
+      <edge source="Kanye West" target="Common" id="94" weight="1" />
+      <edge source="Kanye West" target="Radical For Christ" id="95" weight="1" />
+      <edge source="Kanye West" target="RZA" id="96" weight="1" />
+      <edge source="Kanye West" target="Jamie Foxx" id="97" weight="2" />
+      <edge source="Kanye West" target="Talib Kweli" id="98" weight="1" />
+      <edge source="Kanye West" target="Consequence" id="99" weight="1" />
+      <edge source="Kanye West" target="The Boys Choir Of Harlem" id="100" weight="1" />
+      <edge source="Kanye West" target="Cam’ron" id="101" weight="2" />
+      <edge source="Kanye West" target="Syleena Johnson" id="102" weight="2" />
+      <edge source="Kanye West" target="Lil Wayne" id="103" weight="1" />
+      <edge source="Kanye West" target="Mos Def" id="104" weight="1" />
+      <edge source="Kanye West" target="Twista" id="105" weight="3" />
+      <edge source="Kanye West" target="Freeway" id="106" weight="1" />
+      <edge source="Kanye West" target="50 Cent" id="107" weight="1" />
+      <edge source="Kanye West" target="E-40" id="108" weight="1" />
+      <edge source="Kanye West" target="SWV" id="109" weight="1" />
+      <edge source="Kanye West" target="Fred Hammond" id="110" weight="1" />
+      <edge source="Kanye West" target="Big Tymers" id="111" weight="1" />
+      <edge source="Kanye West" target="Ludacris" id="112" weight="1" />
+      <edge source="Kanye West" target="Trae Tha Truth" id="113" weight="1" />
+      <edge source="Kanye West" target="Clipse" id="114" weight="1" />
+      <edge source="Kanye West" target="JAY-Z" id="115" weight="3" />
+      <edge source="Kanye West" target="GLC" id="116" weight="1" />
+      <edge source="Erykah Badu" target="Jill Scott" id="117" weight="1" />
+      <edge source="Erykah Badu" target="Common" id="118" weight="2" />
+      <edge source="Erykah Badu" target="CeeLo Green" id="119" weight="1" />
+      <edge source="Erykah Badu" target="Mary J. Blige" id="120" weight="1" />
+      <edge source="Erykah Badu" target="Bilal" id="121" weight="1" />
+      <edge source="Celly Cel" target="Luniz" id="122" weight="1" />
+      <edge source="Celly Cel" target="Kokane" id="123" weight="1" />
+      <edge source="Celly Cel" target="E-40" id="124" weight="1" />
+      <edge source="Celly Cel" target="Cold 187um" id="125" weight="1" />
+      <edge source="Charlie Wilson" target="Justin Timberlake" id="126" weight="1" />
+      <edge source="Charlie Wilson" target="Snoop Dogg" id="127" weight="2" />
+      <edge source="Psychodrama" target="Twista" id="128" weight="1" />
+      <edge source="Psychodrama" target="Cam’ron" id="129" weight="1" />
+      <edge source="Juelz Santana" target="JAY-Z" id="130" weight="1" />
+      <edge source="Juelz Santana" target="Un Kasa" id="131" weight="1" />
+      <edge source="Juelz Santana" target="Cam’ron" id="132" weight="6" />
+      <edge source="Orchestra of St. Luke's" target="Kirk Franklin" id="133" weight="1" />
+      <edge source="Orchestra of St. Luke's" target="Max Reger" id="134" weight="1" />
+      <edge source="Orchestra of St. Luke's" target="Bronn Journey" id="135" weight="1" />
+      <edge source="Orchestra of St. Luke's" target="Felix Mendelssohn" id="136" weight="1" />
+      <edge source="Orchestra of St. Luke's" target="The Boys Choir Of Harlem" id="137" weight="31" />
+      <edge source="Orchestra of St. Luke's" target="Leonard Slatkin" id="138" weight="18" />
+      <edge source="Orchestra of St. Luke's" target="Traditional" id="139" weight="13" />
+      <edge source="Orchestra of St. Luke's" target="SWV" id="140" weight="2" />
+      <edge source="Orchestra of St. Luke's" target="Franz Schubert" id="141" weight="1" />
+      <edge source="Orchestra of St. Luke's" target="George Walker" id="142" weight="2" />
+      <edge source="Orchestra of St. Luke's" target="Michael Praetorius" id="143" weight="1" />
+      <edge source="Orchestra of St. Luke's" target="Kathleen Battle" id="144" weight="18" />
+      <edge source="Orchestra of St. Luke's" target="Kenny G" id="145" weight="2" />
+      <edge source="Orchestra of St. Luke's" target="George Frideric Handel" id="146" weight="11" />
+      <edge source="Memphis Bleek" target="Twista" id="147" weight="1" />
+      <edge source="Memphis Bleek" target="Amil" id="148" weight="1" />
+      <edge source="Memphis Bleek" target="Freeway" id="149" weight="4" />
+      <edge source="Memphis Bleek" target="Beanie Sigel" id="150" weight="9" />
+      <edge source="Memphis Bleek" target="Peedi Crakk" id="151" weight="1" />
+      <edge source="Memphis Bleek" target="Snoop Dogg" id="152" weight="2" />
+      <edge source="Memphis Bleek" target="Young Gunz" id="153" weight="1" />
+      <edge source="Memphis Bleek" target="JAY-Z" id="154" weight="18" />
+      <edge source="Goldie Loc" target="Fiend" id="155" weight="1" />
+      <edge source="Goldie Loc" target="Kokane" id="156" weight="1" />
+      <edge source="Goldie Loc" target="Silkk The Shocker" id="157" weight="1" />
+      <edge source="Goldie Loc" target="Snoop Dogg" id="158" weight="4" />
+      <edge source="Goldie Loc" target="Ludacris" id="159" weight="1" />
+      <edge source="Goldie Loc" target="C-Murder" id="160" weight="1" />
+      <edge source="Goldie Loc" target="Mia X" id="161" weight="1" />
+      <edge source="Burt Bacharach" target="Kenny G" id="162" weight="1" />
+      <edge source="The Boys Choir Of Harlem" target="Kirk Franklin" id="163" weight="2" />
+      <edge source="The Boys Choir Of Harlem" target="Max Reger" id="164" weight="1" />
+      <edge source="The Boys Choir Of Harlem" target="Bronn Journey" id="165" weight="3" />
+      <edge source="The Boys Choir Of Harlem" target="En Vogue" id="166" weight="3" />
+      <edge source="The Boys Choir Of Harlem" target="Felix Mendelssohn" id="167" weight="1" />
+      <edge source="The Boys Choir Of Harlem" target="Mos Def" id="168" weight="1" />
+      <edge source="The Boys Choir Of Harlem" target="Freeway" id="169" weight="1" />
+      <edge source="The Boys Choir Of Harlem" target="Leonard Slatkin" id="170" weight="18" />
+      <edge source="The Boys Choir Of Harlem" target="Dwele" id="171" weight="1" />
+      <edge source="The Boys Choir Of Harlem" target="Traditional" id="172" weight="13" />
+      <edge source="The Boys Choir Of Harlem" target="SWV" id="173" weight="4" />
+      <edge source="The Boys Choir Of Harlem" target="Franz Schubert" id="174" weight="1" />
+      <edge source="The Boys Choir Of Harlem" target="George Walker" id="175" weight="2" />
+      <edge source="The Boys Choir Of Harlem" target="Michael Praetorius" id="176" weight="1" />
+      <edge source="The Boys Choir Of Harlem" target="Kathleen Battle" id="177" weight="18" />
+      <edge source="The Boys Choir Of Harlem" target="Kenny G" id="178" weight="9" />
+      <edge source="The Boys Choir Of Harlem" target="George Frideric Handel" id="179" weight="11" />
+      <edge source="Richard Ashcroft" target="UNKLE" id="180" weight="1" />
+      <edge source="Archie Lee" target="Trae Tha Truth" id="181" weight="9" />
+      <edge source="Archie Lee" target="Mr. 3-2" id="182" weight="2" />
+      <edge source="Archie Lee" target="Big Pup" id="183" weight="2" />
+      <edge source="Archie Lee" target="Kiotti" id="184" weight="2" />
+      <edge source="Arturo Sandoval" target="Kenny G" id="185" weight="1" />
+      <edge source="Kumar Sanu" target="Alka Yagnik" id="186" weight="1" />
+      <edge source="Kumar Sanu" target="Sadhana Sargam" id="187" weight="1" />
+      <edge source="Dwele" target="John Legend" id="188" weight="1" />
+      <edge source="Dwele" target="En Vogue" id="189" weight="1" />
+      <edge source="Dwele" target="Kenny G" id="190" weight="1" />
+      <edge source="Randy Newman" target="Lyle Lovett" id="191" weight="3" />
+      <edge source="Randy Newman" target="Sarah McLachlan" id="192" weight="1" />
+      <edge source="Randy Newman" target="En Vogue" id="193" weight="1" />
+      <edge source="Randy Newman" target="Louis Prima" id="194" weight="1" />
+      <edge source="Randy Newman" target="Susanna Hoffs" id="195" weight="1" />
+      <edge source="Randy Newman" target="Lil Wayne" id="196" weight="1" />
+      <edge source="JAY-Z" target="The LOX" id="197" weight="1" />
+      <edge source="JAY-Z" target="Fabolous" id="198" weight="1" />
+      <edge source="JAY-Z" target="Kirk Franklin" id="199" weight="1" />
+      <edge source="JAY-Z" target="Beanie Sigel" id="200" weight="21" />
+      <edge source="JAY-Z" target="Foxy Brown" id="201" weight="6" />
+      <edge source="JAY-Z" target="Kid Capri" id="202" weight="1" />
+      <edge source="JAY-Z" target="Blackstreet" id="203" weight="2" />
+      <edge source="JAY-Z" target="Cam’ron" id="204" weight="2" />
+      <edge source="JAY-Z" target="Peedi Crakk" id="205" weight="1" />
+      <edge source="JAY-Z" target="Eminem" id="206" weight="1" />
+      <edge source="JAY-Z" target="Twista" id="207" weight="2" />
+      <edge source="JAY-Z" target="Nate Dogg" id="208" weight="1" />
+      <edge source="JAY-Z" target="Freeway" id="209" weight="5" />
+      <edge source="JAY-Z" target="Timbaland" id="210" weight="1" />
+      <edge source="JAY-Z" target="The Notorious B.I.G." id="211" weight="2" />
+      <edge source="JAY-Z" target="Big Boi" id="212" weight="1" />
+      <edge source="JAY-Z" target="E-40" id="213" weight="1" />
+      <edge source="JAY-Z" target="Sean Paul" id="214" weight="1" />
+      <edge source="JAY-Z" target="Fred Hammond" id="215" weight="1" />
+      <edge source="JAY-Z" target="Lil' Kim" id="216" weight="2" />
+      <edge source="JAY-Z" target="Big Tymers" id="217" weight="1" />
+      <edge source="JAY-Z" target="JUVENILE" id="218" weight="1" />
+      <edge source="JAY-Z" target="Beyoncé" id="219" weight="4" />
+      <edge source="JAY-Z" target="DJ Clue" id="220" weight="1" />
+      <edge source="JAY-Z" target="Radical For Christ" id="221" weight="1" />
+      <edge source="JAY-Z" target="Amil" id="222" weight="4" />
+      <edge source="JAY-Z" target="Mary J. Blige" id="223" weight="3" />
+      <edge source="JAY-Z" target="Killer Mike" id="224" weight="1" />
+      <edge source="JAY-Z" target="RZA" id="225" weight="1" />
+      <edge source="JAY-Z" target="Kokane" id="226" weight="1" />
+      <edge source="JAY-Z" target="Mariah Carey" id="227" weight="2" />
+      <edge source="JAY-Z" target="Snoop Dogg" id="228" weight="4" />
+      <edge source="JAY-Z" target="Too $hort" id="229" weight="3" />
+      <edge source="JAY-Z" target="Young Gunz" id="230" weight="1" />
+      <edge source="JAY-Z" target="Jermaine Dupri" id="231" weight="1" />
+      <edge source="JAY-Z" target="Lil Wayne" id="232" weight="1" />
+      <edge source="JAY-Z" target="Lenny Kravitz" id="233" weight="1" />
+      <edge source="JAY-Z" target="Ja Rule" id="234" weight="1" />
+      <edge source="JAY-Z" target="Diddy" id="235" weight="2" />
+      <edge source="JAY-Z" target="Suga Free" id="236" weight="1" />
+      <edge source="JAY-Z" target="50 Cent" id="237" weight="1" />
+      <edge source="JAY-Z" target="SWV" id="238" weight="2" />
+      <edge source="JAY-Z" target="Scarface" id="239" weight="3" />
+      <edge source="JAY-Z" target="Trae Tha Truth" id="240" weight="1" />
+      <edge source="JAY-Z" target="Truth Hurts" id="241" weight="1" />
+      <edge source="JAY-Z" target="Clipse" id="242" weight="1" />
+      <edge source="JAY-Z" target="UGK" id="243" weight="3" />
+      <edge source="JAY-Z" target="Faith Evans" id="244" weight="1" />
+      <edge source="Ghetto Boy" target="Trae Tha Truth" id="245" weight="1" />
+      <edge source="Ghetto Boy" target="Kiotti" id="246" weight="1" />
+      <edge source="Sheek Louch" target="Raekwon" id="247" weight="1" />
+      <edge source="Bobby V." target="Ludacris" id="248" weight="1" />
+      <edge source="Spice 1" target="Trae Tha Truth" id="249" weight="3" />
+      <edge source="Spice 1" target="Mac Mall" id="250" weight="1" />
+      <edge source="Spice 1" target="E-40" id="251" weight="2" />
+      <edge source="Spice 1" target="2Pac" id="252" weight="1" />
+      <edge source="Shirley Caesar" target="Kirk Franklin" id="253" weight="2" />
+      <edge source="Yolanda Adams" target="Kenny G" id="254" weight="1" />
+      <edge source="Yolanda Adams" target="Kirk Franklin" id="255" weight="1" />
+      <edge source="Yolanda Adams" target="Alvin Slaughter" id="256" weight="1" />
+      <edge source="Buddy Guy" target="Syleena Johnson" id="257" weight="1" />
+      <edge source="WC" target="E-40" id="258" weight="1" />
+      <edge source="WC" target="Mack 10" id="259" weight="1" />
+      <edge source="Trina" target="Shawnna" id="260" weight="1" />
+      <edge source="Trina" target="Foxy Brown" id="261" weight="1" />
+      <edge source="Trina" target="Snoop Dogg" id="262" weight="1" />
+      <edge source="Trina" target="Ludacris" id="263" weight="1" />
+      <edge source="Trina" target="Lil Jon" id="264" weight="1" />
+      <edge source="Death Cab for Cutie" target="Guy Sebastian" id="265" weight="1" />
+      <edge source="Charli Baltimore" target="Cam’ron" id="266" weight="1" />
+      <edge source="David Banner" target="Bone Crusher" id="267" weight="1" />
+      <edge source="David Banner" target="E-40" id="268" weight="1" />
+      <edge source="David Banner" target="Lil Jon" id="269" weight="1" />
+      <edge source="Bee Gees" target="Snoop Dogg" id="270" weight="1" />
+      <edge source="Sam Butera &amp; The Witnesses" target="Curtis Mayfield" id="271" weight="1" />
+      <edge source="Sam Butera &amp; The Witnesses" target="Louis Prima" id="272" weight="104" />
+      <edge source="Sam Butera &amp; The Witnesses" target="Keely Smith" id="273" weight="48" />
+      <edge source="Willie Neal Johnson" target="Kirk Franklin" id="274" weight="1" />
+      <edge source="Lil Wayne" target="Fabolous" id="275" weight="1" />
+      <edge source="Lil Wayne" target="Kirk Franklin" id="276" weight="1" />
+      <edge source="Lil Wayne" target="Trick Daddy" id="277" weight="1" />
+      <edge source="Lil Wayne" target="Paul Wall" id="278" weight="1" />
+      <edge source="Lil Wayne" target="Nelly" id="279" weight="1" />
+      <edge source="Lil Wayne" target="T.I." id="280" weight="1" />
+      <edge source="Lil Wayne" target="Birdman" id="281" weight="2" />
+      <edge source="Lil Wayne" target="Cam’ron" id="282" weight="2" />
+      <edge source="Lil Wayne" target="UNKLE" id="283" weight="1" />
+      <edge source="Lil Wayne" target="Lil Jon" id="284" weight="1" />
+      <edge source="Lil Wayne" target="Twista" id="285" weight="1" />
+      <edge source="Lil Wayne" target="Freeway" id="286" weight="1" />
+      <edge source="Lil Wayne" target="Pharrell Williams" id="287" weight="1" />
+      <edge source="Lil Wayne" target="N.O.R.E." id="288" weight="1" />
+      <edge source="Lil Wayne" target="E-40" id="289" weight="3" />
+      <edge source="Lil Wayne" target="B.G." id="290" weight="2" />
+      <edge source="Lil Wayne" target="Big Tymers" id="291" weight="9" />
+      <edge source="Lil Wayne" target="Fred Hammond" id="292" weight="1" />
+      <edge source="Lil Wayne" target="JUVENILE" id="293" weight="5" />
+      <edge source="Lil Wayne" target="Radical For Christ" id="294" weight="1" />
+      <edge source="Lil Wayne" target="RZA" id="295" weight="1" />
+      <edge source="Lil Wayne" target="Petey Pablo" id="296" weight="1" />
+      <edge source="Lil Wayne" target="Snoop Dogg" id="297" weight="1" />
+      <edge source="Lil Wayne" target="Curtis Mayfield" id="298" weight="1" />
+      <edge source="Lil Wayne" target="Louis Prima" id="299" weight="1" />
+      <edge source="Lil Wayne" target="Hot Boyz" id="300" weight="1" />
+      <edge source="Lil Wayne" target="Blaque" id="301" weight="1" />
+      <edge source="Lil Wayne" target="Hot Boys" id="302" weight="2" />
+      <edge source="Lil Wayne" target="50 Cent" id="303" weight="1" />
+      <edge source="Lil Wayne" target="SWV" id="304" weight="1" />
+      <edge source="Lil Wayne" target="Mannie Fresh" id="305" weight="8" />
+      <edge source="Lil Wayne" target="Trae Tha Truth" id="306" weight="1" />
+      <edge source="Lil Wayne" target="Jazze Pha" id="307" weight="1" />
+      <edge source="Lil Wayne" target="Clipse" id="308" weight="2" />
+      <edge source="Lil Wayne" target="Otis Redding" id="309" weight="1" />
+      <edge source="Michael Bolton" target="Kenny G" id="310" weight="1" />
+      <edge source="En Vogue" target="Jill Scott" id="311" weight="1" />
+      <edge source="En Vogue" target="Bronn Journey" id="312" weight="1" />
+      <edge source="En Vogue" target="SWV" id="313" weight="2" />
+      <edge source="En Vogue" target="Frankie Knuckles" id="314" weight="2" />
+      <edge source="En Vogue" target="Talib Kweli" id="315" weight="1" />
+      <edge source="En Vogue" target="Beyoncé" id="316" weight="1" />
+      <edge source="En Vogue" target="Cam’ron" id="317" weight="1" />
+      <edge source="En Vogue" target="Kenny G" id="318" weight="1" />
+      <edge source="RZA" target="Matt Blaque" id="319" weight="1" />
+      <edge source="RZA" target="Fabolous" id="320" weight="1" />
+      <edge source="RZA" target="Kirk Franklin" id="321" weight="1" />
+      <edge source="RZA" target="Radical For Christ" id="322" weight="1" />
+      <edge source="RZA" target="Masta Killa" id="323" weight="1" />
+      <edge source="RZA" target="Ghostface Killah" id="324" weight="1" />
+      <edge source="RZA" target="Cam’ron" id="325" weight="1" />
+      <edge source="RZA" target="B-Legit" id="326" weight="1" />
+      <edge source="RZA" target="Twista" id="327" weight="1" />
+      <edge source="RZA" target="Raekwon" id="328" weight="1" />
+      <edge source="RZA" target="50 Cent" id="329" weight="1" />
+      <edge source="RZA" target="Method Man" id="330" weight="1" />
+      <edge source="RZA" target="E-40" id="331" weight="1" />
+      <edge source="RZA" target="SWV" id="332" weight="1" />
+      <edge source="RZA" target="Fred Hammond" id="333" weight="1" />
+      <edge source="RZA" target="Big Tymers" id="334" weight="1" />
+      <edge source="RZA" target="Trae Tha Truth" id="335" weight="1" />
+      <edge source="RZA" target="Clipse" id="336" weight="1" />
+      <edge source="Keely Smith" target="Louis Prima" id="337" weight="64" />
+      <edge source="Keely Smith" target="SWV" id="338" weight="1" />
+      <edge source="Method Man" target="Cappadonna" id="339" weight="2" />
+      <edge source="Method Man" target="Masta Killa" id="340" weight="1" />
+      <edge source="Method Man" target="Raekwon" id="341" weight="4" />
+      <edge source="Method Man" target="Ghostface Killah" id="342" weight="2" />
+      <edge source="Inspectah Deck" target="Raekwon" id="343" weight="2" />
+      <edge source="Inspectah Deck" target="Ghostface Killah" id="344" weight="1" />
+      <edge source="Inspectah Deck" target="Masta Killa" id="345" weight="1" />
+      <edge source="Disturbing Tha Peace" target="Ludacris" id="346" weight="1" />
+      <edge source="Disturbing Tha Peace" target="I-20" id="347" weight="1" />
+      <edge source="Disturbing Tha Peace" target="Mystikal" id="348" weight="1" />
+      <edge source="Sticky Fingaz" target="Snoop Dogg" id="349" weight="1" />
+      <edge source="Michael Praetorius" target="Leonard Slatkin" id="350" weight="1" />
+      <edge source="Michael Praetorius" target="Kathleen Battle" id="351" weight="1" />
+      <edge source="Fabolous" target="Kirk Franklin" id="352" weight="1" />
+      <edge source="Fabolous" target="Charlie Murphy" id="353" weight="1" />
+      <edge source="Fabolous" target="Paul Wall" id="354" weight="1" />
+      <edge source="Fabolous" target="Missy Elliott" id="355" weight="1" />
+      <edge source="Fabolous" target="Joe Budden" id="356" weight="1" />
+      <edge source="Fabolous" target="Cam’ron" id="357" weight="2" />
+      <edge source="Fabolous" target="Mona Lisa" id="358" weight="1" />
+      <edge source="Fabolous" target="Jagged Edge" id="359" weight="2" />
+      <edge source="Fabolous" target="Twista" id="360" weight="1" />
+      <edge source="Fabolous" target="Nate Dogg" id="361" weight="2" />
+      <edge source="Fabolous" target="Pharrell Williams" id="362" weight="2" />
+      <edge source="Fabolous" target="E-40" id="363" weight="2" />
+      <edge source="Fabolous" target="Sean Paul" id="364" weight="1" />
+      <edge source="Fabolous" target="Fred Hammond" id="365" weight="1" />
+      <edge source="Fabolous" target="Big Tymers" id="366" weight="1" />
+      <edge source="Fabolous" target="Radical For Christ" id="367" weight="1" />
+      <edge source="Fabolous" target="Ashanti" id="368" weight="1" />
+      <edge source="Fabolous" target="Scooby" id="369" weight="1" />
+      <edge source="Fabolous" target="Mary J. Blige" id="370" weight="1" />
+      <edge source="Fabolous" target="Jadakiss" id="371" weight="2" />
+      <edge source="Fabolous" target="Snoop Dogg" id="372" weight="1" />
+      <edge source="Fabolous" target="Syleena Johnson" id="373" weight="1" />
+      <edge source="Fabolous" target="Poppy" id="374" weight="1" />
+      <edge source="Fabolous" target="Ja Rule" id="375" weight="1" />
+      <edge source="Fabolous" target="Diddy" id="376" weight="1" />
+      <edge source="Fabolous" target="50 Cent" id="377" weight="1" />
+      <edge source="Fabolous" target="SWV" id="378" weight="1" />
+      <edge source="Fabolous" target="Trae Tha Truth" id="379" weight="3" />
+      <edge source="Fabolous" target="Clipse" id="380" weight="2" />
+      <edge source="Fabolous" target="Otis Redding" id="381" weight="1" />
+      <edge source="B.G." target="E-40" id="382" weight="2" />
+      <edge source="B.G." target="Paul Wall" id="383" weight="1" />
+      <edge source="B.G." target="T.I." id="384" weight="1" />
+      <edge source="B.G." target="JUVENILE" id="385" weight="2" />
+      <edge source="B.G." target="Birdman" id="386" weight="1" />
+      <edge source="Consequence" target="GLC" id="387" weight="1" />
+      <edge source="Mona Lisa" target="Cam’ron" id="388" weight="1" />
+      <edge source="Warren G" target="Trae Tha Truth" id="389" weight="6" />
+      <edge source="Warren G" target="Nate Dogg" id="390" weight="2" />
+      <edge source="Warren G" target="Redman" id="391" weight="1" />
+      <edge source="Warren G" target="Snoop Dogg" id="392" weight="2" />
+      <edge source="Masta Killa" target="Raekwon" id="393" weight="4" />
+      <edge source="Masta Killa" target="Ghostface Killah" id="394" weight="2" />
+      <edge source="Sadhana Sargam" target="Udit Narayan" id="395" weight="1" />
+      <edge source="Poppy" target="Trae Tha Truth" id="396" weight="5" />
+      <edge source="Poppy" target="Paul Wall" id="397" weight="2" />
+      <edge source="Poppy" target="Scooby" id="398" weight="5" />
+      <edge source="MC Ren" target="John Legend" id="399" weight="1" />
+      <edge source="MC Ren" target="Nate Dogg" id="400" weight="1" />
+      <edge source="MC Ren" target="Ice Cube" id="401" weight="1" />
+      <edge source="MC Ren" target="Snoop Dogg" id="402" weight="1" />
+      <edge source="MC Ren" target="The Lady Of Rage" id="403" weight="1" />
+      <edge source="Killer Mike" target="Big Boi" id="404" weight="1" />
+      <edge source="Killer Mike" target="Twista" id="405" weight="1" />
+      <edge source="Jim Jones" target="Cam’ron" id="406" weight="1" />
+      <edge source="Snoop Dogg" target="John Legend" id="407" weight="1" />
+      <edge source="Snoop Dogg" target="Master P" id="408" weight="5" />
+      <edge source="Snoop Dogg" target="Nelly" id="409" weight="1" />
+      <edge source="Snoop Dogg" target="Redman" id="410" weight="1" />
+      <edge source="Snoop Dogg" target="Raphael Saadiq" id="411" weight="1" />
+      <edge source="Snoop Dogg" target="The Lady Of Rage" id="412" weight="2" />
+      <edge source="Snoop Dogg" target="C-Murder" id="413" weight="5" />
+      <edge source="Snoop Dogg" target="Justin Timberlake" id="414" weight="1" />
+      <edge source="Snoop Dogg" target="Mia X" id="415" weight="2" />
+      <edge source="Snoop Dogg" target="Lil Jon" id="416" weight="1" />
+      <edge source="Snoop Dogg" target="Nate Dogg" id="417" weight="5" />
+      <edge source="Snoop Dogg" target="Ice Cube" id="418" weight="1" />
+      <edge source="Snoop Dogg" target="Tha Eastsidaz" id="419" weight="1" />
+      <edge source="Snoop Dogg" target="Pharrell Williams" id="420" weight="3" />
+      <edge source="Snoop Dogg" target="Freeway" id="421" weight="1" />
+      <edge source="Snoop Dogg" target="Fiend" id="422" weight="3" />
+      <edge source="Snoop Dogg" target="Ludacris" id="423" weight="2" />
+      <edge source="Snoop Dogg" target="The Dramatics" id="424" weight="1" />
+      <edge source="Snoop Dogg" target="Soopafly" id="425" weight="2" />
+      <edge source="Snoop Dogg" target="Xzibit" id="426" weight="1" />
+      <edge source="Snoop Dogg" target="Mystikal" id="427" weight="2" />
+      <edge source="Snoop Dogg" target="Soulja Slim" id="428" weight="1" />
+      <edge source="Snoop Dogg" target="Kokane" id="429" weight="9" />
+      <edge source="Snoop Dogg" target="Silkk The Shocker" id="430" weight="4" />
+      <edge source="Snoop Dogg" target="Curtis Mayfield" id="431" weight="1" />
+      <edge source="Snoop Dogg" target="Eve" id="432" weight="1" />
+      <edge source="Snoop Dogg" target="Bootsy Collins" id="433" weight="2" />
+      <edge source="Snoop Dogg" target="Suga Free" id="434" weight="2" />
+      <edge source="Snoop Dogg" target="50 Cent" id="435" weight="2" />
+      <edge source="Snoop Dogg" target="SWV" id="436" weight="1" />
+      <edge source="Snoop Dogg" target="Mannie Fresh" id="437" weight="1" />
+      <edge source="Snoop Dogg" target="Lil 1/2 Dead" id="438" weight="1" />
+      <edge source="Shawnna" target="Ludacris" id="439" weight="5" />
+      <edge source="Shawnna" target="Foxy Brown" id="440" weight="1" />
+      <edge source="Shawnna" target="I-20" id="441" weight="1" />
+      <edge source="Jaheim" target="Cam’ron" id="442" weight="1" />
+      <edge source="Al Kapone" target="Pastor Troy" id="443" weight="1" />
+      <edge source="Al Kapone" target="E-40" id="444" weight="1" />
+      <edge source="Al Kapone" target="Pimp C" id="445" weight="1" />
+      <edge source="Al Kapone" target="Too $hort" id="446" weight="1" />
+      <edge source="Faith Evans" target="Freeway" id="447" weight="1" />
+      <edge source="Faith Evans" target="The Notorious B.I.G." id="448" weight="1" />
+      <edge source="Faith Evans" target="Talib Kweli" id="449" weight="2" />
+      <edge source="Faith Evans" target="Clipse" id="450" weight="1" />
+      <edge source="Oschino" target="Freeway" id="451" weight="1" />
+      <edge source="Sleepy Brown" target="Big Boi" id="452" weight="1" />
+      <edge source="Sleepy Brown" target="Beyoncé" id="453" weight="1" />
+      <edge source="Sleepy Brown" target="Ludacris" id="454" weight="2" />
+      <edge source="Jermaine Dupri" target="Twista" id="455" weight="1" />
+      <edge source="Jermaine Dupri" target="Petey Pablo" id="456" weight="1" />
+      <edge source="Jermaine Dupri" target="Ludacris" id="457" weight="1" />
+      <edge source="Jermaine Dupri" target="Cam’ron" id="458" weight="2" />
+      <edge source="Jermaine Dupri" target="Clipse" id="459" weight="1" />
+      <edge source="Diddy" target="Jagged Edge" id="460" weight="1" />
+      <edge source="Diddy" target="SWV" id="461" weight="1" />
+      <edge source="Diddy" target="Lil' Kim" id="462" weight="2" />
+      <edge source="Carla Thomas" target="Otis Redding" id="463" weight="12" />
+      <edge source="Kokane" target="Cold 187um" id="464" weight="1" />
+      <edge source="Kokane" target="Suga Free" id="465" weight="1" />
+      <edge source="Kokane" target="Luniz" id="466" weight="1" />
+      <edge source="Kokane" target="E-40" id="467" weight="2" />
+      <edge source="Yami Bolo" target="Treach" id="468" weight="1" />
+      <edge source="Yami Bolo" target="Stephen Marley" id="469" weight="1" />
+      <edge source="Yami Bolo" target="Damian Marley" id="470" weight="3" />
+      <edge source="Yukmouth" target="Trae Tha Truth" id="471" weight="3" />
+      <edge source="Syleena Johnson" target="Busta Rhymes" id="472" weight="1" />
+      <edge source="Syleena Johnson" target="Raekwon" id="473" weight="1" />
+      <edge source="Syleena Johnson" target="E-40" id="474" weight="1" />
+      <edge source="Syleena Johnson" target="Cam’ron" id="475" weight="1" />
+      <edge source="Treach" target="Bunny Wailer" id="476" weight="1" />
+      <edge source="Treach" target="Bounty Killer" id="477" weight="1" />
+      <edge source="Treach" target="Damian Marley" id="478" weight="2" />
+      <edge source="8Ball" target="Twista" id="479" weight="1" />
+      <edge source="8Ball" target="Carl Thomas" id="480" weight="1" />
+      <edge source="8Ball" target="E-40" id="481" weight="2" />
+      <edge source="8Ball" target="Jazze Pha" id="482" weight="1" />
+      <edge source="8Ball" target="Too $hort" id="483" weight="1" />
+      <edge source="8Ball" target="Petey Pablo" id="484" weight="1" />
+      <edge source="8Ball" target="Ludacris" id="485" weight="1" />
+      <edge source="8Ball" target="Curtis Mayfield" id="486" weight="1" />
+      <edge source="8Ball" target="MJG" id="487" weight="1" />
+      <edge source="8Ball" target="Lil Jon" id="488" weight="1" />
+      <edge source="Kirk Franklin" target="Crystal Lewis" id="489" weight="1" />
+      <edge source="Kirk Franklin" target="TobyMac" id="490" weight="1" />
+      <edge source="Kirk Franklin" target="Cam’ron" id="491" weight="1" />
+      <edge source="Kirk Franklin" target="Richard Smallwood" id="492" weight="1" />
+      <edge source="Kirk Franklin" target="Twista" id="493" weight="1" />
+      <edge source="Kirk Franklin" target="E-40" id="494" weight="1" />
+      <edge source="Kirk Franklin" target="Fred Hammond" id="495" weight="2" />
+      <edge source="Kirk Franklin" target="Big Tymers" id="496" weight="1" />
+      <edge source="Kirk Franklin" target="Kenny G" id="497" weight="2" />
+      <edge source="Kirk Franklin" target="Donnie McClurkin" id="498" weight="1" />
+      <edge source="Kirk Franklin" target="Radical For Christ" id="499" weight="1" />
+      <edge source="Kirk Franklin" target="Bronn Journey" id="500" weight="1" />
+      <edge source="Kirk Franklin" target="Jaci Velasquez" id="501" weight="1" />
+      <edge source="Kirk Franklin" target="Alvin Slaughter" id="502" weight="1" />
+      <edge source="Kirk Franklin" target="Leonard Slatkin" id="503" weight="1" />
+      <edge source="Kirk Franklin" target="50 Cent" id="504" weight="1" />
+      <edge source="Kirk Franklin" target="SWV" id="505" weight="2" />
+      <edge source="Kirk Franklin" target="Trae Tha Truth" id="506" weight="1" />
+      <edge source="Kirk Franklin" target="Clipse" id="507" weight="1" />
+      <edge source="Kirk Franklin" target="Kathleen Battle" id="508" weight="1" />
+      <edge source="Small World" target="Ludacris" id="509" weight="1" />
+      <edge source="Marvin Winans" target="Brian McKnight" id="510" weight="1" />
+      <edge source="Marvin Winans" target="Fred Hammond" id="511" weight="1" />
+      <edge source="DJ Quik" target="Ludacris" id="512" weight="1" />
+      <edge source="DJ Quik" target="Talib Kweli" id="513" weight="1" />
+      <edge source="Barbra Streisand" target="Kenny G" id="514" weight="1" />
+      <edge source="Fred Hammond" target="Radical For Christ" id="515" weight="67" />
+      <edge source="Fred Hammond" target="Jamie Foxx" id="516" weight="1" />
+      <edge source="Fred Hammond" target="Cam’ron" id="517" weight="1" />
+      <edge source="Fred Hammond" target="Brian McKnight" id="518" weight="1" />
+      <edge source="Fred Hammond" target="Jill Scott" id="519" weight="1" />
+      <edge source="Fred Hammond" target="Twista" id="520" weight="1" />
+      <edge source="Fred Hammond" target="50 Cent" id="521" weight="1" />
+      <edge source="Fred Hammond" target="E-40" id="522" weight="1" />
+      <edge source="Fred Hammond" target="SWV" id="523" weight="1" />
+      <edge source="Fred Hammond" target="Big Tymers" id="524" weight="1" />
+      <edge source="Fred Hammond" target="Trae Tha Truth" id="525" weight="1" />
+      <edge source="Fred Hammond" target="Clipse" id="526" weight="1" />
+      <edge source="Fred Hammond" target="Kenny G" id="527" weight="1" />
+      <edge source="Clipse" target="Kardinal Offishall" id="528" weight="1" />
+      <edge source="Clipse" target="Radical For Christ" id="529" weight="1" />
+      <edge source="Clipse" target="Jadakiss" id="530" weight="1" />
+      <edge source="Clipse" target="Birdman" id="531" weight="1" />
+      <edge source="Clipse" target="Cam’ron" id="532" weight="1" />
+      <edge source="Clipse" target="Twista" id="533" weight="1" />
+      <edge source="Clipse" target="50 Cent" id="534" weight="1" />
+      <edge source="Clipse" target="N.O.R.E." id="535" weight="1" />
+      <edge source="Clipse" target="E-40" id="536" weight="3" />
+      <edge source="Clipse" target="Sean Paul" id="537" weight="1" />
+      <edge source="Clipse" target="SWV" id="538" weight="1" />
+      <edge source="Clipse" target="Big Tymers" id="539" weight="1" />
+      <edge source="Clipse" target="Trae Tha Truth" id="540" weight="1" />
+      <edge source="Radio Slave" target="UNKLE" id="541" weight="1" />
+      <edge source="Bone Crusher" target="E-40" id="542" weight="1" />
+      <edge source="Bone Crusher" target="Lil Jon" id="543" weight="1" />
+      <edge source="Pharrell Williams" target="Common" id="544" weight="1" />
+      <edge source="Pharrell Williams" target="Mannie Fresh" id="545" weight="1" />
+      <edge source="Pharrell Williams" target="Ludacris" id="546" weight="1" />
+      <edge source="Pharrell Williams" target="T.I." id="547" weight="1" />
+      <edge source="Pharrell Williams" target="Paul Wall" id="548" weight="1" />
+      <edge source="Havoc" target="Raekwon" id="549" weight="1" />
+      <edge source="2 Chainz" target="Ludacris" id="550" weight="2" />
+      <edge source="2 Chainz" target="Chingy" id="551" weight="1" />
+      <edge source="2 Chainz" target="I-20" id="552" weight="1" />
+      <edge source="MJG" target="Ludacris" id="553" weight="1" />
+      <edge source="MJG" target="Curtis Mayfield" id="554" weight="1" />
+      <edge source="MJG" target="Carl Thomas" id="555" weight="1" />
+      <edge source="JR Writer" target="Otis Redding" id="556" weight="1" />
+      <edge source="JR Writer" target="Cam’ron" id="557" weight="1" />
+      <edge source="Turf Talk" target="E-40" id="558" weight="2" />
+      <edge source="B-Legit" target="Matt Blaque" id="559" weight="1" />
+      <edge source="B-Legit" target="2Pac" id="560" weight="1" />
+      <edge source="B-Legit" target="E-40" id="561" weight="24" />
+      <edge source="B-Legit" target="Messy Marv" id="562" weight="1" />
+      <edge source="B-Legit" target="D-Shot" id="563" weight="5" />
+      <edge source="B-Legit" target="San Quinn" id="564" weight="1" />
+      <edge source="B-Legit" target="Afroman" id="565" weight="1" />
+      <edge source="Dave Chappelle" target="Talib Kweli" id="566" weight="1" />
+      <edge source="Blaque" target="Mannie Fresh" id="567" weight="1" />
+      <edge source="Brian McKnight" target="Earl Klugh" id="568" weight="1" />
+      <edge source="Brian McKnight" target="Kenny G" id="569" weight="3" />
+      <edge source="Beanie Sigel" target="The LOX" id="570" weight="1" />
+      <edge source="Beanie Sigel" target="Amil" id="571" weight="2" />
+      <edge source="Beanie Sigel" target="Freeway" id="572" weight="4" />
+      <edge source="Beanie Sigel" target="Scarface" id="573" weight="3" />
+      <edge source="Jamie Foxx" target="Twista" id="574" weight="2" />
+      <edge source="Jamie Foxx" target="Radical For Christ" id="575" weight="1" />
+      <edge source="Mac Mall" target="2Pac" id="576" weight="1" />
+      <edge source="Mac Mall" target="E-40" id="577" weight="1" />
+      <edge source="Chamillionaire" target="Trae Tha Truth" id="578" weight="2" />
+      <edge source="Chamillionaire" target="Paul Wall" id="579" weight="2" />
+      <edge source="Los Bukis" target="Marco Antonio Solís" id="580" weight="10" />
+      <edge source="Talib Kweli" target="Black Thought" id="581" weight="1" />
+      <edge source="Talib Kweli" target="John Legend" id="582" weight="1" />
+      <edge source="Talib Kweli" target="Common" id="583" weight="2" />
+      <edge source="Talib Kweli" target="Mary J. Blige" id="584" weight="1" />
+      <edge source="Talib Kweli" target="Bilal" id="585" weight="2" />
+      <edge source="Talib Kweli" target="Anthony Hamilton" id="586" weight="1" />
+      <edge source="Talib Kweli" target="Mos Def" id="587" weight="3" />
+      <edge source="Talib Kweli" target="Pharoahe Monch" id="588" weight="1" />
+      <edge source="Talib Kweli" target="Cocoa Brovaz" id="589" weight="1" />
+      <edge source="Talib Kweli" target="Kendra Ross" id="590" weight="1" />
+      <edge source="Talib Kweli" target="Beyoncé" id="591" weight="1" />
+      <edge source="Kenny Greene" target="Cam’ron" id="592" weight="2" />
+      <edge source="Otis Redding" target="Cam’ron" id="593" weight="1" />
+      <edge source="Jagged Edge" target="Ludacris" id="594" weight="1" />
+      <edge source="Jagged Edge" target="Twista" id="595" weight="1" />
+      <edge source="Louis Prima" target="Jazze Pha" id="596" weight="1" />
+      <edge source="Louis Prima" target="Curtis Mayfield" id="597" weight="1" />
+      <edge source="Louis Prima" target="Hot Boyz" id="598" weight="1" />
+      <edge source="Kathleen Battle" target="Leonard Slatkin" id="599" weight="18" />
+      <edge source="Kathleen Battle" target="Traditional" id="600" weight="13" />
+      <edge source="Kathleen Battle" target="Max Reger" id="601" weight="1" />
+      <edge source="Kathleen Battle" target="SWV" id="602" weight="2" />
+      <edge source="Kathleen Battle" target="Bronn Journey" id="603" weight="1" />
+      <edge source="Kathleen Battle" target="Franz Schubert" id="604" weight="1" />
+      <edge source="Kathleen Battle" target="Felix Mendelssohn" id="605" weight="1" />
+      <edge source="Kathleen Battle" target="Kenny G" id="606" weight="2" />
+      <edge source="Crystal Lewis" target="Donnie McClurkin" id="607" weight="1" />
+      <edge source="Crystal Lewis" target="Jaci Velasquez" id="608" weight="1" />
+      <edge source="Ice Cube" target="John Legend" id="609" weight="1" />
+      <edge source="Ice Cube" target="Nate Dogg" id="610" weight="1" />
+      <edge source="Ice Cube" target="E-40" id="611" weight="1" />
+      <edge source="Ice Cube" target="The Lady Of Rage" id="612" weight="1" />
+      <edge source="Freeway" target="John Legend" id="613" weight="1" />
+      <edge source="Freeway" target="Mariah Carey" id="614" weight="1" />
+      <edge source="Freeway" target="Nelly" id="615" weight="1" />
+      <edge source="Freeway" target="Joe Budden" id="616" weight="1" />
+      <edge source="Freeway" target="Young Gunz" id="617" weight="2" />
+      <edge source="Freeway" target="Peedi Crakk" id="618" weight="2" />
+      <edge source="Freeway" target="Mos Def" id="619" weight="1" />
+      <edge source="Freeway" target="Twista" id="620" weight="1" />
+      <edge source="Freeway" target="Nate Dogg" id="621" weight="1" />
+      <edge source="Donnie McClurkin" target="Jaci Velasquez" id="622" weight="1" />
+      <edge source="Ms. Dynamite" target="Ludacris" id="623" weight="1" />
+      <edge source="Bounty Killer" target="Bunny Wailer" id="624" weight="1" />
+      <edge source="Bounty Killer" target="Damian Marley" id="625" weight="1" />
+      <edge source="Mos Def" target="Jill Scott" id="626" weight="1" />
+      <edge source="Mos Def" target="Busta Rhymes" id="627" weight="1" />
+      <edge source="Mos Def" target="Q-Tip" id="628" weight="1" />
+      <edge source="Mos Def" target="Kierra Sheard" id="629" weight="1" />
+      <edge source="Mos Def" target="Trae Tha Truth" id="630" weight="1" />
+      <edge source="Mos Def" target="Ludacris" id="631" weight="1" />
+      <edge source="Sean Paul" target="Kardinal Offishall" id="632" weight="1" />
+      <edge source="Sean Paul" target="Beyoncé" id="633" weight="1" />
+      <edge source="JUVENILE" target="E-40" id="634" weight="2" />
+      <edge source="JUVENILE" target="Big Tymers" id="635" weight="1" />
+      <edge source="JUVENILE" target="Birdman" id="636" weight="1" />
+      <edge source="Radical For Christ" target="Cam’ron" id="637" weight="1" />
+      <edge source="Radical For Christ" target="Twista" id="638" weight="1" />
+      <edge source="Radical For Christ" target="50 Cent" id="639" weight="1" />
+      <edge source="Radical For Christ" target="E-40" id="640" weight="1" />
+      <edge source="Radical For Christ" target="SWV" id="641" weight="1" />
+      <edge source="Radical For Christ" target="Big Tymers" id="642" weight="1" />
+      <edge source="Radical For Christ" target="Trae Tha Truth" id="643" weight="1" />
+      <edge source="Radical For Christ" target="Kenny G" id="644" weight="1" />
+      <edge source="Jazze Pha" target="Twista" id="645" weight="1" />
+      <edge source="Jazze Pha" target="E-40" id="646" weight="1" />
+      <edge source="Jazze Pha" target="Ludacris" id="647" weight="1" />
+      <edge source="Jazze Pha" target="T.I." id="648" weight="1" />
+      <edge source="Jazze Pha" target="Paul Wall" id="649" weight="1" />
+      <edge source="Jazze Pha" target="Hot Boyz" id="650" weight="1" />
+      <edge source="Trick Daddy" target="Ludacris" id="651" weight="1" />
+      <edge source="Trick Daddy" target="T.I." id="652" weight="1" />
+      <edge source="Trick Daddy" target="Paul Wall" id="653" weight="1" />
+      <edge source="Trick Daddy" target="Lil Jon" id="654" weight="1" />
+      <edge source="Devin The Dude" target="Trae Tha Truth" id="655" weight="2" />
+      <edge source="Boo Rossini" target="Slick Pulla" id="656" weight="1" />
+      <edge source="JoJo" target="E-40" id="657" weight="2" />
+      <edge source="JoJo" target="Too $hort" id="658" weight="1" />
+      <edge source="Messy Marv" target="E-40" id="659" weight="1" />
+      <edge source="Messy Marv" target="San Quinn" id="660" weight="1" />
+      <edge source="Bronn Journey" target="Leonard Slatkin" id="661" weight="1" />
+      <edge source="Bronn Journey" target="SWV" id="662" weight="1" />
+      <edge source="Bronn Journey" target="Kenny G" id="663" weight="12" />
+      <edge source="Thom Yorke" target="UNKLE" id="664" weight="1" />
+      <edge source="Louis Armstrong" target="Kenny G" id="665" weight="1" />
+      <edge source="JL" target="Trae Tha Truth" id="666" weight="1" />
+      <edge source="Missy Elliott" target="SWV" id="667" weight="1" />
+      <edge source="Missy Elliott" target="Beyoncé" id="668" weight="1" />
+      <edge source="Juicy J" target="E-40" id="669" weight="1" />
+      <edge source="Big Tymers" target="Cam’ron" id="670" weight="1" />
+      <edge source="Big Tymers" target="Twista" id="671" weight="1" />
+      <edge source="Big Tymers" target="50 Cent" id="672" weight="1" />
+      <edge source="Big Tymers" target="E-40" id="673" weight="1" />
+      <edge source="Big Tymers" target="SWV" id="674" weight="1" />
+      <edge source="Big Tymers" target="Trae Tha Truth" id="675" weight="1" />
+      <edge source="Foxy Brown" target="SWV" id="676" weight="1" />
+      <edge source="Foxy Brown" target="Ludacris" id="677" weight="1" />
+      <edge source="Max Reger" target="Leonard Slatkin" id="678" weight="1" />
+      <edge source="Anthony Hamilton" target="Twista" id="679" weight="1" />
+      <edge source="Anthony Hamilton" target="Common" id="680" weight="1" />
+      <edge source="Toni Braxton" target="Kenny G" id="681" weight="1" />
+      <edge source="Lyrics Born" target="Kool G Rap" id="682" weight="1" />
+      <edge source="Lyrics Born" target="UNKLE" id="683" weight="1" />
+      <edge source="Lyrics Born" target="Lateef The Truthspeaker" id="684" weight="1" />
+      <edge source="Kenny G" target="Common" id="685" weight="1" />
+      <edge source="Kenny G" target="David Sanborn" id="686" weight="2" />
+      <edge source="Kenny G" target="Earl Klugh" id="687" weight="1" />
+      <edge source="Kenny G" target="George Benson" id="688" weight="1" />
+      <edge source="Kenny G" target="Franz Schubert" id="689" weight="1" />
+      <edge source="Kenny G" target="David Benoit" id="690" weight="1" />
+      <edge source="Kenny G" target="Richard Marx" id="691" weight="1" />
+      <edge source="Kenny G" target="Earth, Wind &amp; Fire" id="692" weight="1" />
+      <edge source="Kenny G" target="Mary J. Blige" id="693" weight="1" />
+      <edge source="Kenny G" target="Chaka Khan" id="694" weight="1" />
+      <edge source="Kenny G" target="Chanté Moore" id="695" weight="1" />
+      <edge source="Kenny G" target="LeAnn Rimes" id="696" weight="1" />
+      <edge source="Kenny G" target="Kashif" id="697" weight="1" />
+      <edge source="Kenny G" target="Aaron Neville" id="698" weight="1" />
+      <edge source="Kenny G" target="Leonard Slatkin" id="699" weight="2" />
+      <edge source="Kenny G" target="Traditional" id="700" weight="1" />
+      <edge source="Kenny G" target="SWV" id="701" weight="3" />
+      <edge source="Kenny G" target="Kierra Sheard" id="702" weight="1" />
+      <edge source="Petey Pablo" target="Twista" id="703" weight="1" />
+      <edge source="Petey Pablo" target="E-40" id="704" weight="1" />
+      <edge source="Petey Pablo" target="Lil Jon" id="705" weight="1" />
+      <edge source="Kierra Sheard" target="Trae Tha Truth" id="706" weight="1" />
+      <edge source="Silkk The Shocker" target="Fiend" id="707" weight="2" />
+      <edge source="Silkk The Shocker" target="Soulja Slim" id="708" weight="1" />
+      <edge source="Silkk The Shocker" target="C-Murder" id="709" weight="2" />
+      <edge source="Silkk The Shocker" target="Mia X" id="710" weight="1" />
+      <edge source="Master P" target="Nate Dogg" id="711" weight="1" />
+      <edge source="Master P" target="Tha Eastsidaz" id="712" weight="1" />
+      <edge source="Master P" target="E-40" id="713" weight="2" />
+      <edge source="Too $hort" target="Twista" id="714" weight="1" />
+      <edge source="Too $hort" target="E-40" id="715" weight="5" />
+      <edge source="Too $hort" target="Pimp C" id="716" weight="1" />
+      <edge source="Too $hort" target="Pastor Troy" id="717" weight="1" />
+      <edge source="Mannie Fresh" target="Paul Wall" id="718" weight="1" />
+      <edge source="Mannie Fresh" target="T.I." id="719" weight="1" />
+      <edge source="Traditional" target="Leonard Slatkin" id="720" weight="13" />
+      <edge source="Traditional" target="SWV" id="721" weight="1" />
+      <edge source="Traditional" target="Franz Schubert" id="722" weight="1" />
+      <edge source="Pastor Troy" target="E-40" id="723" weight="1" />
+      <edge source="Pastor Troy" target="Pimp C" id="724" weight="1" />
+      <edge source="Pastor Troy" target="Ludacris" id="725" weight="1" />
+      <edge source="Pharoahe Monch" target="Black Thought" id="726" weight="1" />
+      <edge source="Mr. 3-2" target="Trae Tha Truth" id="727" weight="10" />
+      <edge source="Mr. 3-2" target="H.A.W.K." id="728" weight="2" />
+      <edge source="Mr. 3-2" target="Big Pup" id="729" weight="2" />
+      <edge source="Mr. 3-2" target="Kiotti" id="730" weight="2" />
+      <edge source="Rocko" target="Trae Tha Truth" id="731" weight="2" />
+      <edge source="Nate Dogg" target="John Legend" id="732" weight="1" />
+      <edge source="Nate Dogg" target="Redman" id="733" weight="1" />
+      <edge source="Nate Dogg" target="The Lady Of Rage" id="734" weight="1" />
+      <edge source="Nate Dogg" target="Tha Eastsidaz" id="735" weight="1" />
+      <edge source="Nate Dogg" target="50 Cent" id="736" weight="1" />
+      <edge source="Nate Dogg" target="E-40" id="737" weight="2" />
+      <edge source="Nate Dogg" target="Ludacris" id="738" weight="2" />
+      <edge source="Alka Yagnik" target="Abhijeet" id="739" weight="2" />
+      <edge source="U-God" target="Raekwon" id="740" weight="1" />
+      <edge source="U-God" target="Ghostface Killah" id="741" weight="1" />
+      <edge source="Cappadonna" target="Raekwon" id="742" weight="3" />
+      <edge source="Cappadonna" target="Ghostface Killah" id="743" weight="2" />
+      <edge source="Luther Vandross" target="Beyoncé" id="744" weight="1" />
+      <edge source="Bilal" target="Jill Scott" id="745" weight="1" />
+      <edge source="Bilal" target="Common" id="746" weight="3" />
+      <edge source="Bilal" target="CeeLo Green" id="747" weight="1" />
+      <edge source="Bilal" target="Mary J. Blige" id="748" weight="1" />
+      <edge source="UNKLE" target="Badly Drawn Boy" id="749" weight="1" />
+      <edge source="UNKLE" target="Lateef The Truthspeaker" id="750" weight="1" />
+      <edge source="UNKLE" target="Kool G Rap" id="751" weight="1" />
+      <edge source="UNKLE" target="Ian Brown" id="752" weight="2" />
+      <edge source="Common" target="Jill Scott" id="753" weight="2" />
+      <edge source="Common" target="CeeLo Green" id="754" weight="2" />
+      <edge source="Common" target="Mary J. Blige" id="755" weight="2" />
+      <edge source="Common" target="50 Cent" id="756" weight="1" />
+      <edge source="Common" target="Laetitia Sadier" id="757" weight="1" />
+      <edge source="D-Shot" target="E-40" id="758" weight="7" />
+      <edge source="Kelly Price" target="Cam’ron" id="759" weight="2" />
+      <edge source="K-Rino" target="Trae Tha Truth" id="760" weight="3" />
+      <edge source="I-20" target="Chingy" id="761" weight="1" />
+      <edge source="I-20" target="Ludacris" id="762" weight="3" />
+      <edge source="I-20" target="Mystikal" id="763" weight="1" />
+      <edge source="Scooby" target="Trae Tha Truth" id="764" weight="5" />
+      <edge source="Scooby" target="Paul Wall" id="765" weight="2" />
+      <edge source="Franz Schubert" target="Leonard Slatkin" id="766" weight="1" />
+      <edge source="Ghostface Killah" target="Raekwon" id="767" weight="13" />
+      <edge source="Big Pokey" target="Trae Tha Truth" id="768" weight="2" />
+      <edge source="J2" target="Trae Tha Truth" id="769" weight="2" />
+      <edge source="Chris Ward" target="Trae Tha Truth" id="770" weight="1" />
+      <edge source="Chris Ward" target="H.A.W.K." id="771" weight="1" />
+      <edge source="Fiend" target="Soulja Slim" id="772" weight="1" />
+      <edge source="Fiend" target="C-Murder" id="773" weight="1" />
+      <edge source="Fiend" target="Mystikal" id="774" weight="1" />
+      <edge source="Fiend" target="Mia X" id="775" weight="1" />
+      <edge source="Raekwon" target="Big Bub" id="776" weight="1" />
+      <edge source="Raekwon" target="E-40" id="777" weight="1" />
+      <edge source="Raekwon" target="American Cream Team" id="778" weight="2" />
+      <edge source="Lil 1/2 Dead" target="The Dramatics" id="779" weight="1" />
+      <edge source="T.I." target="Twista" id="780" weight="1" />
+      <edge source="T.I." target="Trae Tha Truth" id="781" weight="2" />
+      <edge source="T.I." target="Paul Wall" id="782" weight="17" />
+      <edge source="T.I." target="Lil' Kim" id="783" weight="1" />
+      <edge source="T.I." target="Nelly" id="784" weight="1" />
+      <edge source="T.I." target="Daz Dillinger" id="785" weight="1" />
+      <edge source="T.I." target="Lil Jon" id="786" weight="1" />
+      <edge source="C-Loc" target="Trae Tha Truth" id="787" weight="4" />
+      <edge source="50 Cent" target="Paul Wall" id="788" weight="1" />
+      <edge source="50 Cent" target="Lloyd Banks" id="789" weight="1" />
+      <edge source="50 Cent" target="Cam’ron" id="790" weight="1" />
+      <edge source="50 Cent" target="Eminem" id="791" weight="2" />
+      <edge source="50 Cent" target="Twista" id="792" weight="1" />
+      <edge source="50 Cent" target="E-40" id="793" weight="1" />
+      <edge source="50 Cent" target="SWV" id="794" weight="1" />
+      <edge source="50 Cent" target="Trae Tha Truth" id="795" weight="1" />
+      <edge source="50 Cent" target="Tony Yayo" id="796" weight="1" />
+      <edge source="C-Murder" target="Mia X" id="797" weight="1" />
+      <edge source="Amil" target="Ja Rule" id="798" weight="1" />
+      <edge source="Mack 10" target="E-40" id="799" weight="2" />
+      <edge source="Cold 187um" target="Luniz" id="800" weight="1" />
+      <edge source="Cold 187um" target="E-40" id="801" weight="1" />
+      <edge source="Twista" target="Cam’ron" id="802" weight="2" />
+      <edge source="Twista" target="Big Boi" id="803" weight="1" />
+      <edge source="Twista" target="E-40" id="804" weight="1" />
+      <edge source="Twista" target="Ludacris" id="805" weight="2" />
+      <edge source="Twista" target="CeeLo Green" id="806" weight="1" />
+      <edge source="Twista" target="SWV" id="807" weight="1" />
+      <edge source="Twista" target="Trae Tha Truth" id="808" weight="1" />
+      <edge source="Bunny Wailer" target="Damian Marley" id="809" weight="1" />
+      <edge source="John Legend" target="The Lady Of Rage" id="810" weight="1" />
+      <edge source="Leonard Slatkin" target="SWV" id="811" weight="2" />
+      <edge source="Leonard Slatkin" target="Felix Mendelssohn" id="812" weight="1" />
+      <edge source="KRS-One" target="Curtis Mayfield" id="813" weight="1" />
+      <edge source="UGK" target="Ludacris" id="814" weight="1" />
+      <edge source="Stephen Marley" target="Drag-On" id="815" weight="1" />
+      <edge source="Stephen Marley" target="Capleton" id="816" weight="1" />
+      <edge source="Stephen Marley" target="Damian Marley" id="817" weight="2" />
+      <edge source="N.O.R.E." target="Cam’ron" id="818" weight="3" />
+      <edge source="N.O.R.E." target="Birdman" id="819" weight="1" />
+      <edge source="Eminem" target="Lloyd Banks" id="820" weight="1" />
+      <edge source="H.A.W.K." target="Trae Tha Truth" id="821" weight="9" />
+      <edge source="CeeLo Green" target="Jill Scott" id="822" weight="1" />
+      <edge source="CeeLo Green" target="Mary J. Blige" id="823" weight="1" />
+      <edge source="Afroman" target="E-40" id="824" weight="1" />
+      <edge source="Linda Clifford" target="Curtis Mayfield" id="825" weight="8" />
+      <edge source="Kiotti" target="Trae Tha Truth" id="826" weight="5" />
+      <edge source="Kiotti" target="Big Pup" id="827" weight="2" />
+      <edge source="2Pac" target="E-40" id="828" weight="2" />
+      <edge source="Daz Dillinger" target="Paul Wall" id="829" weight="1" />
+      <edge source="Daz Dillinger" target="Cam’ron" id="830" weight="1" />
+      <edge source="Beyoncé" target="Big Boi" id="831" weight="1" />
+      <edge source="Cam’ron" target="Usher" id="832" weight="2" />
+      <edge source="Cam’ron" target="Destiny's Child" id="833" weight="1" />
+      <edge source="Cam’ron" target="Ol' Dirty Bastard" id="834" weight="1" />
+      <edge source="Cam’ron" target="E-40" id="835" weight="1" />
+      <edge source="Cam’ron" target="Curtis Mayfield" id="836" weight="1" />
+      <edge source="Cam’ron" target="Jill Scott" id="837" weight="1" />
+      <edge source="Cam’ron" target="Un Kasa" id="838" weight="1" />
+      <edge source="Cam’ron" target="SWV" id="839" weight="1" />
+      <edge source="Cam’ron" target="Trae Tha Truth" id="840" weight="1" />
+      <edge source="Trae Tha Truth" target="Paul Wall" id="841" weight="8" />
+      <edge source="Trae Tha Truth" target="Yung Redd" id="842" weight="8" />
+      <edge source="Trae Tha Truth" target="E-40" id="843" weight="1" />
+      <edge source="Trae Tha Truth" target="S.L.A.B." id="844" weight="1" />
+      <edge source="Trae Tha Truth" target="Guerilla Black" id="845" weight="1" />
+      <edge source="Trae Tha Truth" target="SWV" id="846" weight="1" />
+      <edge source="Trae Tha Truth" target="Big Pup" id="847" weight="2" />
+      <edge source="Capleton" target="Drag-On" id="848" weight="1" />
+      <edge source="Capleton" target="Damian Marley" id="849" weight="1" />
+      <edge source="Ludacris" target="Carl Thomas" id="850" weight="1" />
+      <edge source="Ludacris" target="Chingy" id="851" weight="1" />
+      <edge source="Ludacris" target="Mystikal" id="852" weight="1" />
+      <edge source="Ludacris" target="Lil' Flip" id="853" weight="1" />
+      <edge source="Ludacris" target="Curtis Mayfield" id="854" weight="1" />
+      <edge source="Ludacris" target="Doug E. Fresh" id="855" weight="1" />
+      <edge source="Ludacris" target="Three 6 Mafia" id="856" weight="1" />
+      <edge source="Damian Marley" target="Mr. Cheeks" id="857" weight="1" />
+      <edge source="Damian Marley" target="Drag-On" id="858" weight="1" />
+      <edge source="Damian Marley" target="Eve" id="859" weight="1" />
+      <edge source="Busta Rhymes" target="E-40" id="860" weight="2" />
+      <edge source="Jill Scott" target="Black Thought" id="861" weight="1" />
+      <edge source="Jill Scott" target="Mary J. Blige" id="862" weight="1" />
+      <edge source="E-40" target="Luniz" id="863" weight="1" />
+      <edge source="E-40" target="Birdman" id="864" weight="1" />
+      <edge source="E-40" target="San Quinn" id="865" weight="1" />
+      <edge source="E-40" target="Lil Jon" id="866" weight="2" />
+      <edge source="E-40" target="Jayo Felony" id="867" weight="3" />
+      <edge source="E-40" target="Goapele" id="868" weight="1" />
+      <edge source="E-40" target="Mystikal" id="869" weight="1" />
+      <edge source="E-40" target="Fat Joe" id="870" weight="1" />
+      <edge source="E-40" target="Suga Free" id="871" weight="1" />
+      <edge source="E-40" target="Pimp C" id="872" weight="1" />
+      <edge source="E-40" target="SWV" id="873" weight="2" />
+      <edge source="Redman" target="SWV" id="874" weight="1" />
+      <edge source="SWV" target="Lil' Kim" id="875" weight="1" />
+      <edge source="Carl Thomas" target="Curtis Mayfield" id="876" weight="1" />
+      <edge source="Lil Jon" target="Paul Wall" id="877" weight="1" />
+      <edge source="Lil' Kim" target="Paul Wall" id="878" weight="1" />
+      <edge source="Peedi Crakk" target="Young Gunz" id="879" weight="1" />
+      <edge source="Paul Wall" target="Nelly" id="880" weight="1" />
+      <edge source="Lateef The Truthspeaker" target="Kool G Rap" id="881" weight="1" />
+    </edges>
+  </graph>
+</gexf>
